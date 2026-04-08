@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Yoga Vinyasa Course MVP</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Yoga Vinyasa 10-week Course Digital Space">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+  <!-- vue.css theme -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+  <style>
+    /* 增加一些自定义样式优化体验 */
+    :root {
+      --theme-color: #607d8b;
+      /* 取一个平静的蓝灰色 */
+    }
+
+    .app-name-link {
+      font-weight: bold;
+    }
+
+    .sidebar ul li a {
+      font-size: 15px;
+    }
+
+    /* iframe响应式包裹器 */
+    .video-container {
+      position: relative;
+      padding-bottom: 56.25%;
+      /* 16:9 */
+      height: 0;
+      overflow: hidden;
+      margin: 20px 0;
+      border-radius: 8px;
+    }
+
+    .video-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="app">🏃‍♀️ 瑜伽空间环境加载中...</div>
+  <script>
+    window.$docsify = {
+      name: 'Nayota Vinyasa Yoga Flow',
+      repo: '',
+      loadSidebar: true, // 启用侧边栏
+      subMaxLevel: 2,    // 自动提取Markdown标题到侧边栏的层级
+      fallbackLanguages: ['zh', 'en', 'de'], // 回退语言
+      auto2top: true,    // 切换页面后自动跳转到顶部
+
+      // 多语言侧边栏自动映射逻辑
+      nameLink: {
+        '/en/': '#/en/',
+        '/de/': '#/de/',
+        '/': '#/zh/'
+      },
+
+      search: {
+        placeholder: {
+          '/en/': 'Type to search',
+          '/de/': 'Tippe um zu suchen',
+          '/': '搜索'
+        },
+        noData: {
+          '/en/': 'No Results',
+          '/de/': 'Keine Ergebnisse',
+          '/': '找不到结果'
+        }
+      }
+    }
+  </script>
+
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- 引入搜索插件 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+
+  <!-- 图片缩放插件 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+</body>
+
+</html>
