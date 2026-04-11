@@ -9,3 +9,39 @@
 - [**进入中文版课程 👉**](zh/README.md)
 - English Version (Coming soon)
 - Deutsche Version (Demnächst)
+
+---
+
+## 本地预览（写内容时推荐）
+
+本站用 [Docsify](https://docsify.js.org/) 渲染 `docs/` 里的 Markdown。`index.html` 里在本地访问时会把资源根路径设为 `/`，所以**请把 `docs` 当作网站根目录**来起服务，否则 Markdown 会加载失败、一直停在「加载中」。
+
+在仓库根目录执行其一即可：
+
+```bash
+cd docs && python3 -m http.server 8080
+```
+
+浏览器打开：**http://localhost:8080/**（会自动加载 `index.html`）。
+
+或使用 Node（无需全局安装）：
+
+```bash
+npx --yes serve docs -l 8080
+```
+
+同样访问 **http://localhost:8080/**。
+
+编辑并保存 `docs/zh/` 等下的 `.md` 文件后，刷新页面即可看到效果。
+
+---
+
+## 静态站点预览（GitHub Pages）
+
+本仓库远程为 `wanchang97/yogacoursewebsite`。若在 GitHub 仓库设置里启用 **Pages**，且发布来源为 **`/docs` 分支 `main`**（或你当前用于部署的分支），则项目站地址一般为：
+
+**https://wanchang97.github.io/yogacoursewebsite/**
+
+线上路径会带仓库名前缀，站点里的 `basePath` 会自动按路径适配；本地仍请按上一节从 `docs` 根目录访问，与线上一致的内容结构即可。
+
+若尚未开通 Pages：仓库 **Settings → Pages → Build and deployment**，Source 选对应分支与 **`/docs` 文件夹**，保存后等待几分钟再访问上述链接。

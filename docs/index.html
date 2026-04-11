@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Yoga Vinyasa Course MVP</title>
+  <title>Yoga Vinyasa Course</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Yoga Vinyasa 10-week Course Digital Space">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -51,8 +51,16 @@
   <div id="app">🏃‍♀️ 瑜伽空间环境加载中...</div>
   <script>
     window.$docsify = {
-      name: 'Nayota Vinyasa Yoga Flow',
+      name: 'Nayota Vinyasa Yoga',
       repo: '',
+      // GitHub Project Pages live under /<repo>/; without this, Markdown never loads (stuck on “加载中”).
+      basePath: (function () {
+        var h = location.hostname;
+        if (h === 'localhost' || h === '127.0.0.1') return '/';
+        var m = location.pathname.match(/^\/([^/]+)\//);
+        return m ? '/' + m[1] + '/' : '/';
+      })(),
+      homepage: 'zh/README.md',
       loadSidebar: true, // 启用侧边栏
       subMaxLevel: 2,    // 自动提取Markdown标题到侧边栏的层级
       fallbackLanguages: ['zh', 'en', 'de'], // 回退语言
@@ -76,7 +84,32 @@
           '/de/': 'Keine Ergebnisse',
           '/': '找不到结果'
         }
-      }
+      },
+
+      // 静态图片：浏览器以 index.html 所在路径解析 img的相对 URL，./ 与 ../ 会指到错误的 /figures。
+      // 统一改为 basePath + 资源路径，本地与 GitHub Pages 均可加载。
+      plugins: [
+        function (hook) {
+          hook.afterEach(function (html) {
+            var bp = window.$docsify.basePath;
+            if (typeof bp !== 'string') bp = '/';
+            if (bp.charAt(bp.length - 1) !== '/') bp += '/';
+            return html.replace(/<img\s+([^>]*?)src="([^"]+)"([^>]*)>/gi, function (full, pre, src, post) {
+              if (/^(https?:)?\/\//i.test(src) || src.indexOf('data:') === 0) return full;
+              if (src.charAt(0) === '#') return full;
+              var path = src.trim();
+              if (path.charAt(0) === '/') path = path.replace(/^\/+/, '');
+              else {
+                path = path.replace(/^\.\//, '');
+                while (path.indexOf('../') === 0) path = path.slice(3);
+              }
+              var url = bp + path;
+              url = url.replace(/([^:])\/{2,}/g, '$1/');
+              return '<img ' + pre + 'src="' + url + '"' + post + '>';
+            });
+          });
+        }
+      ]
     }
   </script>
 
