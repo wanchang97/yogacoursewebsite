@@ -14,25 +14,17 @@
 
 ## 本地预览（写内容时推荐）
 
-本站用 [Docsify](https://docsify.js.org/) 渲染 `docs/` 里的 Markdown。`index.html` 里在本地访问时会把资源根路径设为 `/`，所以**请把 `docs` 当作网站根目录**来起服务，否则 Markdown 会加载失败、一直停在「加载中」。
+本站用 [Docsify](https://docsify.js.org/) 渲染 `docs/` 里的 Markdown。最简单的方法是使用系统自带的 Python 启动简易服务器。
 
-在仓库根目录执行其一即可：
-
-```bash
-cd docs && python3 -m http.server 8080
-```
-
-浏览器打开：**http://localhost:8080/**（会自动加载 `index.html`）。
-
-或使用 Node（无需全局安装）：
+在项目的最外层根目录（`YogaCourseWebsite/docs/`）打开终端，执行以下同一套标准指令即可：
 
 ```bash
-npx --yes serve docs -l 8080
+python3 -m http.server 3000
 ```
 
-同样访问 **http://localhost:8080/**。
+启动后，在浏览器打开：👉 **[http://localhost:3000/](http://localhost:3000/)** 。
 
-编辑并保存 `docs/zh/` 等下的 `.md` 文件后，刷新页面即可看到效果。
+编辑并保存 `docs/zh/` 等各语言文件夹下的 `.md` 文件后，直接刷新浏览器页面即可看到最新效果。
 
 ---
 
