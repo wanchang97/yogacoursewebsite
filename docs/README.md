@@ -6,9 +6,9 @@
 
 目前我们提供 **中文版 (Chinese)** 内容。
 
-- [**进入中文版课程 👉**](zh/README.md)
-- English Version (Coming soon)
-- Deutsche Version (Demnächst)
+- [**进入中文版课程 👉**](/zh/README.md)
+- [**Enter English Version 👉**](/en/README.md)
+- [**Zur deutschen Version 👉**](/de/README.md)
 
 ---
 
