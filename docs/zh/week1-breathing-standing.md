@@ -25,20 +25,20 @@
 
 - **四角板凳 (Box)**：感受到身体的器官自然地被支撑住。身体后侧保持水平。
 - **山式 (Tadasana)**：所有体式的起点。闭眼感觉微小晃动中的平衡。
-- **战士一式 / 二式 (Warrior I & II)**：在强烈的下肢支撑中寻找空间。
+- **幻椅式 (Chair Pose)**：
+
 
 ### 核心体式
 
-- **树式 (Vrksasana)**：单腿站立时的足底分布与骨盆稳定。
+- **战士一式 / 二式 (Warrior I & II)**：在强烈的下肢支撑中寻找空间。
 
 ### 挑战平衡体式
 - **虎式 (Tiger Pose)**：
-- **战士一式 / 二式 (Warrior I & II)**：在强烈的下肢支撑中寻找空间。
-- **树式 (Vrksasana)**：单腿站立时的足底分布与骨盆稳定。
+- **幻椅式扭转 (Twisted Chair Pose)**：
 
 
 ### 推荐串联流 (Vinyasa Flow)
-> **简单支撑和站立基础流 (Simple Support and Standing Flow)**
+> **简单支撑和站立拉伸基础流 (Simple Support and Standing Stretching Flow)**
 > 关注点：把呼吸带入到体式中，感受每个呼吸带来的身体的细微变化。
 
 ---
@@ -56,7 +56,7 @@
 ### 3. Yoga Lili 解剖逻辑：盆底肌与足弓的连结
 足底的三点支撑（大脚趾球、小脚趾球、脚跟）如同建构起一个稳固的三角架。当我们唤醒足弓的弹性时，这股力量将沿着腿内侧向上传导，自然唤醒盆底肌与深层核心的协同。
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="figures/足底三角支撑.png" alt="足底三角支撑" style="max-width:min(100%, 720px); height:auto;" />
+  <img src="zh/figures/foot-triangle.png" alt="足底三角支撑" style="max-width:min(100%, 720px); height:auto;" />
 </div>
 
 ---

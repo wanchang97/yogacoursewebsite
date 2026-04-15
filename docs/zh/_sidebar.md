@@ -4,7 +4,7 @@
 
   
 - 🧘 核心课程 (Core Modules)
-  - [第1-2周：站立与根基 (Standing Poses)](zh/week1-standing.md)
+  - [第1-2周：呼吸与根基 (Breathing & Standing)](zh/week1-breathing-standing.md)
   - [第3-4周：支撑与流转 (Support & Flow)](zh/week3-support-flow.md)
   - [第5-6周：前屈与中心 (Center & Fold)](zh/week5-center-fold.md)
   - [第7-8周：后弯与空间 (Space & Backbend)](zh/week7-space-backbend.md)
