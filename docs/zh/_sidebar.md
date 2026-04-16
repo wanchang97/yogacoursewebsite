@@ -12,6 +12,6 @@
 
 
 - 🌐 语言选择 (Languages)
-  - [🇨🇳 中文版 (Chinese)](#)
-  - [🇬🇧 English Version](../en/README.md)
-  - [🇩🇪 Deutsche Version](../de/README.md)
+  - **🇨🇳 中文版 (Chinese)**
+  - [🇬🇧 English Version](/en/README.md)
+  - [🇩🇪 Deutsche Version](/de/README.md)

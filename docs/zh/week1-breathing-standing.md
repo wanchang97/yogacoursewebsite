@@ -55,9 +55,7 @@
 
 ### 3. Yoga Lili 解剖逻辑：盆底肌与足弓的连结
 足底的三点支撑（大脚趾球、小脚趾球、脚跟）如同建构起一个稳固的三角架。当我们唤醒足弓的弹性时，这股力量将沿着腿内侧向上传导，自然唤醒盆底肌与深层核心的协同。
-<div style="text-align: center; margin: 2rem 0;">
-  <img src="zh/figures/foot-triangle.png" alt="足底三角支撑" style="max-width:min(100%, 720px); height:auto;" />
-</div>
+
 
 ---
 

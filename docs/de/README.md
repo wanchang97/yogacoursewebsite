@@ -1,6 +1,6 @@
 # Nayota Yoga 
 
-🌐 **Language / 语言 / Sprache:** [🇨🇳 中文](../zh/README.md) | [🇬🇧 English](../en/README.md) | [🇩🇪 Deutsch](#)
+🌐 **Language / 语言 / Sprache:** [🇨🇳 中文](/zh/README.md) | [🇬🇧 English](/en/README.md) | **🇩🇪 Deutsch**
 
 Willkommen im digitalen Ressourcenraum von **Nayota Yoga**.
 

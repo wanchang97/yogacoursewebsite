@@ -1,6 +1,7 @@
 - [**Home**](en/README.md)
-- [📖 Preface & Philosophy](en/preface.md)
-  
+- [📖 Preface / About Me](en/preface.md)
+- [☯️ What is Yoga & Five Key Elements](en/philosophy.md)
+
 - 🧘 Core Modules
   - [Week 1-2: Breathing & Standing](en/week1-breathing-standing.md)
   - [Week 3-4: Support & Flow](en/week3-support-flow.md)
@@ -9,6 +10,6 @@
   - [Week 9-10: Twist & Vinyasa](en/week9-twist-vinyasa.md)
 
 - 🌐 Languages
-  - [🇨🇳 Chinese Version](../zh/README.md)
-  - [🇬🇧 English (Current)](#)
-  - [🇩🇪 Deutsche Version](../de/README.md)
+  - [🇨🇳 Chinese Version](/zh/README.md)
+  - **🇬🇧 English (Current)**
+  - [🇩🇪 Deutsche Version](/de/README.md)

@@ -1,5 +1,6 @@
 # 那由他瑜伽 Nayota Yoga 
 
+🌐 **Language / 语言 / Sprache:** **🇨🇳 中文** | [🇬🇧 English](/en/README.md) | [🇩🇪 Deutsch](/de/README.md)
 
 欢迎来到 **那由他瑜伽 Nayota Yoga** 数字化资源空间。
 

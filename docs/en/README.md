@@ -1,5 +1,7 @@
 # Nayota Yoga 
 
+🌐 **Language / 语言 / Sprache:** [🇨🇳 中文](/zh/README.md) | **🇬🇧 English** | [🇩🇪 Deutsch](/de/README.md)
+
 Welcome to the **Nayota Yoga** digital resource space.
 
 If you wish to understand the original intention behind creating this resource space and the story behind "Nayota" and "Wuchang" (Impermanence), please read the [Preface & About Me](en/preface.md).
