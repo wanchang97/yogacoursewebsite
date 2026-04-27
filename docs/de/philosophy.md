@@ -106,7 +106,8 @@ Die Drehung beginnt ebenfalls bei den Organen im Zentrum des Körpers. Spüren S
 
 <br>
 
-> *Hinweis: Der oben genannte theoretische Inhalt lehnt sich hauptsächlich an die "Organ Support Theory" von [Donna Farhi][donna] und an die Körper-Geist-Prinzipien von [YogaLili][lili] an und zitiert diese.*
+> *Hinweis: Der oben genannte theoretische Inhalt lehnt sich hauptsächlich an die "Organ Support Theory" von [Donna Farhi][donna] und an die Körper-Geist-Prinzipien von [YogaLili][lili] an und zitiert diese. Die in diesem Kurs verwendeten Asana-Abbildungen stammen hauptsächlich von [PocketYoga][pocketyoga].*
 
 [donna]: https://www.masterclass.com/classes/donna-farhi-teaches-yoga-foundations "Donna Farhi Teaches Yoga Foundations"
 [lili]: https://www.youtube.com/@yogalili6775 "Yoga Lili YouTube Channel"
+[pocketyoga]: https://www.pocketyoga.com/ "Pocket Yoga"

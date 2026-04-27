@@ -3,7 +3,8 @@
 - [☯️ Was ist Yoga & die fünf Grundelemente](de/philosophy.md)
 
 - 🧘 Kernmodule
-  - [Woche 1-2: Atmung & Stehen](de/week1-atmung-stehen.md)
+  - [Woche 1: Atmung & Raum](de/week1-breathing.md)
+  - [Woche 2: Basis & Vierfüßlerstand](de/week2-tabletopsequence.md)
   - [Woche 3-4: Stütze & Flow](de/week3-support-flow.md)
   - [Woche 5-6: Vorbeuge & Zentrum](de/week5-center-fold.md)
   - [Woche 7-8: Rückbeuge & Raum](de/week7-space-backbend.md)

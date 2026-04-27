@@ -30,3 +30,4 @@ The first part focuses on the practice of foundational asanas (poses). In each s
 ## 📖 References
 [donna]: https://www.masterclass.com/classes/donna-farhi-teaches-yoga-foundations "Donna Farhi Teaches Yoga Foundations"
 [lili]: https://www.youtube.com/@yogalili6775 "Yoga Lili YouTube Channel"
+[pocketyoga]: https://www.pocketyoga.com/ "Pocket Yoga"

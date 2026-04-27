@@ -3,9 +3,10 @@
 - [☯️ 瑜伽哲学与五大要素](zh/philosophy.md)
 
 - 🗓️ 核心课程 (Weekly Plans)
-  - [第1周：呼吸与空间](zh/week1-breathing-grounding-upper.md)
-  - [第2周：建立根基](zh/week2-breathing-grounding.md)
-  - [第3-4周：支撑与流转 (Support & Flow)](zh/week3-support-flow.md)
+  - [第1周：呼吸与空间](zh/week1-breathing.md)
+  - [第2周：四角板凳式详解加流动](zh/week2-tabletopsequence.md)
+  - [第3周：站立体式详解](zh/week3-standingsequence.md)
+  - [第4周：站立体式流动](zh/week4-support-flow.md)
   - [第5-6周：前屈与中心 (Center & Fold)](zh/week5-center-fold.md)
   - [第7-8周：后弯与空间 (Space & Backbend)](zh/week7-space-backbend.md)
   - [第9-10周：扭转与整合 (Twist & Vinyasa)](zh/week9-twist-vinyasa.md)

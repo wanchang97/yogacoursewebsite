@@ -24,7 +24,8 @@ Because the implications in this area are very rich and progressive, I have extr
 
 <br>
 
-> *Note: Some content regarding teaching theories is drawn and referenced from [Donna Farhi][donna]'s organ support theory and [YogaLili][lili]'s body-mind principles.*
+> *Note: Some content regarding teaching theories is drawn and referenced from [Donna Farhi][donna]'s organ support theory and [YogaLili][lili]'s body-mind principles. The asanas figures used in this course are primarily sourced from [PocketYoga][pocketyoga].*
 
 [donna]: https://www.masterclass.com/classes/donna-farhi-teaches-yoga-foundations "Donna Farhi Teaches Yoga Foundations"
 [lili]: https://www.youtube.com/@yogalili6775 "Yoga Lili YouTube Channel"
+[pocketyoga]: https://www.pocketyoga.com/ "Pocket Yoga"

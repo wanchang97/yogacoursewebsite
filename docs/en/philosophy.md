@@ -106,7 +106,8 @@ The twist also starts from the organs at the center of the body. When supported,
 
 <br>
 
-> *Note: The theoretical content above primarily draws upon and cites [Donna Farhi][donna]'s Organ Support theory and [YogaLili][lili]'s Body-Mind principles.*
+> *Note: The theoretical content above primarily draws upon and cites [Donna Farhi][donna]'s Organ Support theory and [YogaLili][lili]'s Body-Mind principles. The asanas figures used in this course are primarily sourced from [PocketYoga][pocketyoga].*
 
 [donna]: https://www.masterclass.com/classes/donna-farhi-teaches-yoga-foundations "Donna Farhi Teaches Yoga Foundations"
 [lili]: https://www.youtube.com/@yogalili6775 "Yoga Lili YouTube Channel"
+[pocketyoga]: https://www.pocketyoga.com/ "Pocket Yoga"

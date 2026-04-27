@@ -30,3 +30,4 @@ Der erste Teil widmet sich der Praxis grundlegender Körperhaltungen (Asanas). I
 ## 📖 Referenzen & Quellen
 [donna]: https://www.masterclass.com/classes/donna-farhi-teaches-yoga-foundations "Donna Farhi Teaches Yoga Foundations"
 [lili]: https://www.youtube.com/@yogalili6775 "Yoga Lili YouTube Channel"
+[pocketyoga]: https://www.pocketyoga.com/ "Pocket Yoga"

@@ -106,7 +106,8 @@
 
 <br>
 
-> *注：上述理论内容主要借鉴与引用自 [Donna Farhi][donna] 的器官支撑理论与 [YogaLili][lili] 的身心原则。*
+> *注：上述理论内容主要借鉴与引用自 [Donna Farhi][donna] 的器官支撑理论与 [YogaLili][lili] 的身心原则。本网站/课程中的体式配图（Asanas Figures）主要来源于 [PocketYoga][pocketyoga]。*
 
 [donna]: https://www.masterclass.com/classes/donna-farhi-teaches-yoga-foundations "Donna Farhi Teaches Yoga Foundations"
 [lili]: https://www.youtube.com/@yogalili6775 "Yoga Lili YouTube Channel"
+[pocketyoga]: https://www.pocketyoga.com/ "Pocket Yoga"

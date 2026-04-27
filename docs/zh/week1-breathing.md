@@ -25,17 +25,18 @@
 我们的伸展感受的第一个意向是我们的器官（胸腔、腹腔）。第二个意向是我们的整个躯干、四肢。
 
 **关于“重力与对抗”的小知识：**
-*引用自《瑜伽运动解剖书》*
+*引用自《运动解剖书》(Anatomy of Movement) —— 布兰汀·卡莱-热尔曼 (Blandine Calais-Germain)*  
+*[Google Scholar 文献](https://scholar.google.com/scholar?q=Anatomy+of+Movement+Blandine+Calais-Germain) | [作者官方网站](https://www.calais-germain.com/)*
 身体的很多运动不是只靠肌肉收缩来完成的，而是靠重力。
 比如侧弯时，引导你向下的是重力。此时身体外侧的肌肉是在**拉长的状态下离心收缩**，在对抗重力使身体慢慢向下。这就是为什么瑜伽关注过程：你慢慢下降的过程就是肌肉在拉长对抗重力的过程。
-
+比如Utanasana,是身体后侧的肌肉均匀缓慢的伸长给了我们慢慢下降而不是瞬间失控向下摔倒的可能。
 ---
 
 ## B. 课堂序列流 (Class Modules)
 
 > 点击下方链接查看详细动作清单。本周只练习最基础的坐立序列，体会呼吸的配合。
 
-* **[简易坐伸展放松序列](../sequences/seated-warmup.md)** (约 10 分钟)
+* **[简易坐伸展放松序列](sequences/seated-warmup.md)** (约 10 分钟)
   *包含简易坐腹式呼吸、坐立猫牛式、侧弯、扭转、婴儿式。*
 
 ---
@@ -46,26 +47,25 @@
 ### 第一遍：细节拆解讲解 (Focus: 觉知与呼吸连接)
 * **目标**：让学生学会如何“把呼吸带入动作”，而不是纯粹的拉伸体操。
 * **口令重点**：在每一个动作（如坐立侧弯）停留时，不断提醒“吸气脊柱向上延展，呼气肩膀放松下沉”。告诉他们不要追求手能摸到多远，而要感觉肋骨缝隙被呼吸撑开。
-* **BGM 建议**：极简的白噪音（水流、风声）或安静的冥想钵音。
+
 
 ### 第二遍：呼吸与音乐流动 (Focus: 流畅与专注)
 * **目标**：减少解剖学术语，让学生进入 Flow。
 * **口令重点**：“吸气抬头，呼气低头”、“吸气向左，呼气回正”。只给动作指令。
-* **BGM 建议**：略带节奏感，如手碟 (Handpan) 音乐。
+
 
 ### 第三遍：自我探索流动 (Focus: 内观)
 * **目标**：闭上眼睛，让学生按照自己的呼吸节奏再做一次。
-* **进阶替换**：鼓励他们在婴儿式多停留，感受背部的呼吸起伏。
-
+* **进阶替换**：尝试反祈祷使前弯，尝试从散盘变成半莲花坐立前屈。
 ---
 
 ## D. 课后练习清单 (Practice Tools)
 - [ ] 简单盘腿坐立：每天花 3 分钟观察横向与纵向的呼吸。
-- [ ] 复习：[简易坐伸展放松序列](../sequences/seated-warmup.md) 
+- [ ] 复习：[简易坐伸展放松序列](sequences/seated-warmup.md) 
 
 ### 🎬 精华视频 (10-min Deep Dive)
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+  <iframe src="//player.bilibili.com/player.html?bvid=BV1YU4y1g7Qp&page=3&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
 ### 🎵 推荐音乐 (Spotify 播放列表)

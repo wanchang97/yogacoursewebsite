@@ -24,7 +24,8 @@ Da die Bedeutung in diesem Bereich sehr reichhaltig ist und sich stufenweise auf
 
 <br>
 
-> *Hinweis: Einige Inhalte der Unterrichtstheorie entstammen und beziehen sich auf die Organ-Support-Theorie von [Donna Farhi][donna] sowie die Körper-Geist-Prinzipien von [YogaLili][lili].*
+> *Hinweis: Einige Inhalte der Unterrichtstheorie entstammen und beziehen sich auf die Organ-Support-Theorie von [Donna Farhi][donna] sowie die Körper-Geist-Prinzipien von [YogaLili][lili]. Die in diesem Kurs verwendeten Asana-Abbildungen stammen hauptsächlich von [PocketYoga][pocketyoga].*
 
 [donna]: https://www.masterclass.com/classes/donna-farhi-teaches-yoga-foundations "Donna Farhi Teaches Yoga Foundations"
 [lili]: https://www.youtube.com/@yogalili6775 "Yoga Lili YouTube Channel"
+[pocketyoga]: https://www.pocketyoga.com/ "Pocket Yoga"
