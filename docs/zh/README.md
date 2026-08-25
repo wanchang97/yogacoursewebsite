@@ -11,6 +11,38 @@
 
 <img src="zh/figures/nayota-logo.png" alt="Nayota Yoga Logo" style="max-width:min(100%, 720px); height:auto;" />
 
+## 🎬 完整 Vinyasa Flow 串联视频（夏季学期结课版）
+
+本学期课程已圆满结束！以下是**完整一小时含音乐的流瑜伽串联练习视频**，涵盖从调息热身到大休息的完整流程。欢迎课后反复练习，亦可作为之后学期的参考。
+
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/KM9qZc9Znk4"
+    title="Nayota Yoga – 完整 Vinyasa Flow 含音乐串联 Full Vinyasa Flow with Music"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+> 💡 **练习建议**：跟随音乐，找到你自己的节奏，不必追求完美动作——感受呼吸与身体的连接才是核心。
+
+**视频串联结构（共9段）：**
+
+| 时序 | 内容 | 配乐 |
+|------|------|------|
+| 1 | 🧘 坐立调息（无音乐） | — |
+| 2 | 🌱 坐立热身：侧展、颈侧、坐姿扭转 | — |
+| 3 | 🐅 四角板凳热身：猫牛、穿针、虎式、首个下犬 | 音乐1 |
+| 4 | 🌿 站立序列（左侧）：战士一/二、三角、新月、蜥蜴、鸽式 | 音乐2 |
+| 5 | 🌿 站立序列（右侧，镜像） | 音乐3 |
+| 6 | ⚖️ 平衡挑战：战士三、飞机式、鹰式 | 音乐4 |
+| 7 | 🌊 坐立拉伸（左侧）：头碰膝、马里奇扭转、指南针、狂野式 | Respite |
+| 8 | 🌊 坐立拉伸（右侧，镜像） | Respite |
+| 9 | 🌙 大休息式（挺尸式） | Softhearted |
+
+---
+
 ## 📚 夏季学期的课程结构
 **那由他瑜伽 Nayota Yoga 10周大学体育课程**
 
@@ -32,5 +64,4 @@
 [donna]: https://www.masterclass.com/classes/donna-farhi-teaches-yoga-foundations "Donna Farhi Teaches Yoga Foundations"
 [lili]: https://www.youtube.com/@yogalili6775 "Yoga Lili YouTube Channel"
 [pocketyoga]: https://www.pocketyoga.com/ "Pocket Yoga"
-
 

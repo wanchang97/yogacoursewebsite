@@ -10,6 +10,38 @@ This website is dedicated to organizing and sharing the theoretical content, pra
 
 <img src="en/figures/nayota-logo.png" alt="Nayota Yoga Logo" style="max-width:min(100%, 720px); height:auto;" />
 
+## 🎬 Full Vinyasa Flow with Music (End-of-Semester Recording)
+
+The summer semester has concluded! Below is the **complete one-hour Vinyasa Flow practice video**, covering everything from seated breathing to final rest. Feel free to practice independently with this video, and it will serve as a reference for future semesters.
+
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/KM9qZc9Znk4"
+    title="Nayota Yoga – Full Vinyasa Flow with Music"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+> 💡 **Practice tip**: Follow the music, find your own rhythm. The goal isn't perfect poses — it's feeling the connection between breath and body.
+
+**Flow Structure (9 Segments):**
+
+| Segment | Content | Music |
+|---------|---------|-------|
+| 1 | 🧘 Seated breathing adjustment (no music) | — |
+| 2 | 🌱 Seated warm-up: lateral stretch, neck, seated twist | — |
+| 3 | 🐅 Tabletop warm-up: cat-cow, threading needle, tiger, first downward dog | Music 1 |
+| 4 | 🌿 Standing sequence (left): Warrior I/II, triangle, crescent moon, lizard, pigeon | Music 2 |
+| 5 | 🌿 Standing sequence (right, mirror) | Music 3 |
+| 6 | ⚖️ Balance challenge: Warrior III, airplane, eagle | Music 4 |
+| 7 | 🌊 Seated stretches (left): head-to-knee, Marichyasana, compass, wild thing | Respite |
+| 8 | 🌊 Seated stretches (right, mirror) | Respite |
+| 9 | 🌙 Final relaxation (Savasana) | Softhearted |
+
+---
+
 ## 📚 Summer Semester Course Structure
 **Nayota Yoga 10-Week University Sports Course**
 

@@ -70,14 +70,8 @@
 ### 练习大纲清单
 - [ ] 简单盘腿坐立：观察呼吸。
 
-
-
-<!-- ### 🎬 精华视频 (10-min Deep Dive)
+### 🎬 精华视频 (10-min Deep Dive)
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+  <iframe src="//player.bilibili.com/player.html?bvid=BV1YU4y1g7Qp&page=3&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
-### 🎵 推荐音乐 (Spotify 播放列表)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DWZqd5JICZI0u?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen loading="lazy"></iframe>
-
- -->

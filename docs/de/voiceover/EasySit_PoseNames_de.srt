@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:15,000
+Sitzende Aufwärmsequenz
+Na Yoga
+
+2
+00:00:15,000 --> 00:00:35,000
+Schneidersitz
+Sukhasana
+
+3
+00:00:35,000 --> 00:03:15,000
+Katze-Kuh im Sitzen
+Marjaryasana - Bitilasana
+
+4
+00:03:15,000 --> 00:04:05,000
+Seitbeuge im Sitzen
+Parsva Sukhasana
+
+5
+00:04:05,000 --> 00:04:55,000
+Vorbeuge im Sitzen
+Paschimottanasana
+
+6
+00:04:55,000 --> 00:05:15,000
+Zurück zur Mitte
+
+7
+00:05:15,000 --> 00:05:55,000
+Drehung im Sitzen - rechts
+Parivrtta Sukhasana
+
+8
+00:05:55,000 --> 00:06:15,000
+Zurück zur Mitte
+
+9
+00:06:15,000 --> 00:06:55,000
+Drehung im Sitzen - links
+Parivrtta Sukhasana
+
+10
+00:06:55,000 --> 00:07:15,000
+Zurück zur Mitte
+
+11
+00:07:15,000 --> 00:07:35,000
+Stellung des Kindes
+Balasana
+
+12
+00:07:35,000 --> 00:08:05,000
+Vierfüßlerstand
+Bharmanasana
