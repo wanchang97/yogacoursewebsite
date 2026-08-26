@@ -8,9 +8,9 @@ Daher ist die Praxis der Yoga-Asanas (der Teil, der am ehesten einem Sport ähne
 
 ---
 
-## Die fünf Grundelemente der Asana-Praxis
+## Ein paar Grundaspekte der Praxis
 
-Diese fünf Elemente bilden die Grundlage für eine sichere und tiefe Praxis: **Atmung, Streckung (Ausdehnung), Stabilität, Raum und Blickpunkt (Drishti)**.
+Der größte Unterschied zu anderen Sportarten ist, dass Yoga das Konzept des **Raums** kennt. Ein paar Aspekte bilden die Grundlage einer sicheren und tiefen Praxis: **Atmung, Streckung & Stabilität, Raum und Blickpunkt (Drishti)** – keine feste Liste (mal drei, mal vier), sondern ein Gespür, das mit der Praxis Schritt für Schritt wächst; der **Raum** zieht sich durch alles.
 Sie sind nicht nur Theorien auf dem Papier, sondern innere mentale Rahmenbedingungen, die man im Laufe der Praxis Schritt für Schritt erfahren muss.
 
 ### 1. Atmung (Breathing)

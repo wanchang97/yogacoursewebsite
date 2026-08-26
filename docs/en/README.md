@@ -55,7 +55,7 @@ The first part focuses on the practice of foundational asanas (poses). In each s
 
 ---
 
-> Please start your learning journey using the left navigation bar. It is highly recommended that before entering specific asanas, you first read **[☯️ What is Yoga & Five Key Elements](en/philosophy.md)** to build the fundamental mental framework and mindset for your practice.
+> Please start your learning journey using the left navigation bar. It is highly recommended that before entering specific asanas, you first read **[☯️ What is Yoga](en/philosophy.md)** to build the fundamental mental framework and mindset for your practice.
 
 <br>
 

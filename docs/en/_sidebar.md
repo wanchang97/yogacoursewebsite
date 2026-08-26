@@ -1,17 +1,28 @@
-- [**Home**](en/README.md)
-- [📖 Preface / About Me](en/preface.md)
-- [☯️ What is Yoga & Five Key Elements](en/philosophy.md)
+- <a href="home.html" target="_blank" rel="noopener">✨ Nayota Yoga · Home</a>
+- [🏠 Project Home](en/README.md)
 
-- 🎬 Full Flow Video
-  - [▶ Full Vinyasa Flow with Music](en/README.md#-full-vinyasa-flow-with-music-end-of-semester-recording)
+- 🌅 A New Beginning
+  - [Who I Am (About Me)](en/preface.md)
+  - [What is Yoga](en/philosophy.md)
 
-- 🧘 Core Modules
-  - [Week 1: Breathing & Space](en/week1-breathing.md)
-  - [Week 2: Grounding & Tabletop](en/week2-tabletopsequence.md)
-  - [Week 3-4: Support & Flow (Left Side)](en/week3-support-flow.md)
-  - [Week 5-6: Center & Fold (Right Side Mirror)](en/week5-center-fold.md)
-  - [Week 7-8: Balance Challenge (Warrior III · Eagle)](en/week7-space-backbend.md)
-  - [Week 9-10: Twist, Seated & Savasana](en/week9-twist-vinyasa.md)
+- 📅 Courses
+  - [🌱 Spring Semester (10 sessions × 60 min)](en/spring-course.md)
+  - [☀️ Summer Compact Course (5 sessions × 75 min)](en/summer-course.md)
+  - 🍂 Autumn Course (coming soon)
+  - ❄️ Winter Course (coming soon)
+
+- 📚 Practice Library
+  - 📖 Asana Library (word bank)
+    - [Mountain](/zh/poses/mountain.md)
+    - [Downward Dog](/zh/poses/downward-dog.md)
+    - [Triangle](/zh/poses/triangle.md)
+    - [Revolved Triangle](/zh/poses/revolved-triangle.md)
+    - [Extended Side Angle](/zh/poses/extended-side-angle.md)
+    - [Pyramid](/zh/poses/pyramid.md)
+  - 🧩 Sequence Library (paragraphs)
+    - [Seated Warm-up Sequence](/zh/sequences/seated-warmup.md)
+    - [Tabletop Support Sequence](/zh/sequences/tabletop-warmup.md)
+  - *(content currently in Chinese)*
 
 - 🌐 Languages
   - [🇨🇳 Chinese Version](/zh/README.md)

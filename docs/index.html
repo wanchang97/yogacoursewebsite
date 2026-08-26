@@ -62,7 +62,8 @@
       })(),
       homepage: 'zh/README.md',
       loadSidebar: true, // 启用侧边栏
-      subMaxLevel: 2,    // 自动提取Markdown标题到侧边栏的层级
+      alias: { '/_sidebar.md': '/zh/_sidebar.md' }, // 首页(根路由)复用中文侧边栏
+      subMaxLevel: 0,    // 0 = 侧边栏只显示 _sidebar.md（不自动塞入页面小标题）
       fallbackLanguages: ['zh', 'en', 'de'], // 回退语言
       auto2top: true,    // 切换页面后自动跳转到顶部
 

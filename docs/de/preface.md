@@ -18,9 +18,9 @@ Ich werde meine theoretischen Erkenntnisse auf der Website festhalten und zusamm
 ## 🌟 Was ist Yoga: Meine Yoga-Philosophie
 
 Mit zunehmender Praxis spüre ich immer mehr, dass Yoga nicht nur eine Sportart ist, sondern eine Geisteshaltung und eine Philosophie. (Im Gegensatz zum reinen Fitnesstraining konzentriert sich Yoga sehr stark auf die Stabilität der inneren Organe und das Schaffen von Raum).
-Da die Bedeutung in diesem Bereich sehr reichhaltig ist und sich stufenweise aufbaut, habe ich den Teil darüber, "Was Yoga ist", und die "Fünf Grundelemente der Praxis" in einem separaten Kernkapitel zusammengefasst.
+Da die Bedeutung in diesem Bereich sehr reichhaltig ist und sich stufenweise aufbaut, habe ich den Teil darüber, "Was Yoga ist", und die Grundaspekte der Praxis in einem separaten Kernkapitel zusammengefasst.
 
-👉 **Bitte lesen Sie: [Was ist Yoga: Fünf Grundelemente](de/philosophy.md)** 
+👉 **Bitte lesen Sie: [Was ist Yoga](de/philosophy.md)** 
 
 <br>
 

@@ -8,9 +8,9 @@ Therefore, the practice of yoga asanas (the part that most resembles a sport) is
 
 ---
 
-## The Five Basic Elements of Yoga Asana Practice
+## A Few Foundations of the Practice
 
-These five elements can be said to be the foundation of our safe and deep practice: **Breathing, Extension, Stability, Space, and Drishti (Gaze)**.
+The biggest difference from other sports is that yoga has the concept of **space**. A few aspects form the foundation of a safe and deep practice: **breath, extension & stability, space, and drishti (gaze)** — not a fixed list (sometimes three, sometimes four) but a felt sense that unfolds through practice; **space** runs through all of it.
 They are not only theories on paper, but also inner mental frameworks that need to be gradually experienced step by step along the practice journey.
 
 ### 1. Breathing

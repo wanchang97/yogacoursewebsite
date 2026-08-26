@@ -18,9 +18,9 @@ I will document my theoretical insights on this website, summarizing the entry m
 ## 🌟 What is Yoga: My Yoga Philosophy
 
 As my practice deepened, I increasingly felt that yoga is not just a sport, but a mindset and a philosophy. (Compared to general fitness, yoga focuses more on the stability of internal organs and the creation of space).
-Because the implications in this area are very rich and progressive, I have extracted the section on "What is Yoga" and the "Five Basic Elements of Practice" into a separate core chapter.
+Because the implications in this area are very rich and progressive, I have extracted the section on "What is Yoga" and the foundations of practice into a separate core chapter.
 
-👉 **Please read: [What is Yoga: Five Basic Elements](en/philosophy.md)** 
+👉 **Please read: [What is Yoga](en/philosophy.md)** 
 
 <br>
 

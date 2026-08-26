@@ -1,16 +1,30 @@
-- [**Startseite**](de/README.md)
-- [📖 Vorwort / Über mich](de/preface.md)
-- [☯️ Was ist Yoga & die fünf Grundelemente](de/philosophy.md)
+- <a href="home.html" target="_blank" rel="noopener">✨ Nayota Yoga · Startseite</a>
+- [🏠 Projekt-Startseite](de/README.md)
 
-- 🧘 Kernmodule
-  - [Woche 1: Atmung & Raum](de/week1-breathing.md)
-  - [Woche 2: Basis & Vierfüßlerstand](de/week2-tabletopsequence.md)
-  - [Woche 3-4: Stütze & Flow](de/week3-support-flow.md)
-  - [Woche 5-6: Vorbeuge & Zentrum](de/week5-center-fold.md)
-  - [Woche 7-8: Rückbeuge & Raum](de/week7-space-backbend.md)
-  - [Woche 9-10: Drehung & Vinyasa](de/week9-twist-vinyasa.md)
+- 🌅 Ein neuer Anfang
+  - [Wer ich bin (Über mich)](de/preface.md)
+  - [Was ist Yoga](de/philosophy.md)
+
+- 📅 Kurse
+  - [🌱 Frühjahrssemester (10 Einheiten × 60 Min)](de/spring-course.md)
+  - [☀️ Sommer-Kompaktkurs (5 Einheiten × 75 Min)](de/summer-course.md)
+  - 🍂 Herbstkurs (in Vorbereitung)
+  - ❄️ Winterkurs (in Vorbereitung)
+
+- 📚 Erfahrungsbibliothek
+  - 📖 Asana-Bibliothek (Wortschatz)
+    - [Berghaltung](/zh/poses/mountain.md)
+    - [Herabschauender Hund](/zh/poses/downward-dog.md)
+    - [Dreieck](/zh/poses/triangle.md)
+    - [Gedrehtes Dreieck](/zh/poses/revolved-triangle.md)
+    - [Seitwinkel](/zh/poses/extended-side-angle.md)
+    - [Pyramide](/zh/poses/pyramid.md)
+  - 🧩 Sequenz-Bibliothek (Absätze)
+    - [Sitzende Aufwärm-Sequenz](/zh/sequences/seated-warmup.md)
+    - [Vierfüßler-Stütz-Sequenz](/zh/sequences/tabletop-warmup.md)
+  - *(Inhalte zurzeit auf Chinesisch)*
 
 - 🌐 Sprachen
   - [🇨🇳 Chinesische Version](/zh/README.md)
-  - [🇬🇧 Englische Version](/en/README.md)
   - **🇩🇪 Deutsch (Aktuell)**
+  - [🇬🇧 Englische Version](/en/README.md)

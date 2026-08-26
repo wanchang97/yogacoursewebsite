@@ -23,7 +23,7 @@ Der erste Teil widmet sich der Praxis grundlegender Körperhaltungen (Asanas). I
 
 ---
 
-> Bitte beginnen Sie Ihre Lernreise über die linke Navigationsleiste. Es wird dringend empfohlen, vor dem Üben konkreter Asanas zunächst den Artikel **[☯️ Was ist Yoga & die fünf Grundelemente](de/philosophy.md)** zu lesen, um die geistige Basis und das innere Mindset für die Praxis aufzubauen.
+> Bitte beginnen Sie Ihre Lernreise über die linke Navigationsleiste. Es wird dringend empfohlen, vor dem Üben konkreter Asanas zunächst den Artikel **[☯️ Was ist Yoga](de/philosophy.md)** zu lesen, um die geistige Basis und das innere Mindset für die Praxis aufzubauen.
 
 <br>
 
