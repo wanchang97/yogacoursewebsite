@@ -44,7 +44,17 @@
       width: 100%;
       height: 100%;
     }
-  </style>
+  
+  /* ===== 体式卡片 pose card ===== */
+  .markdown-section.pose-page{max-width:46rem;}
+  .pose-page h1{border-bottom:none;font-size:1.9rem;margin-bottom:.1rem;}
+  .pose-sanskrit{font-style:italic;color:#8a938d;margin:0 0 1.3rem;font-size:.95rem;}
+  .pose-media{aspect-ratio:16/9;border-radius:12px;margin:0 0 1.8rem;background:linear-gradient(150deg,#5E8B7E,#3C6A5E);color:rgba(255,255,255,.92);display:flex;align-items:center;justify-content:center;font-size:.9rem;letter-spacing:.04em;text-align:center;padding:1rem;}
+  .pose-page h2{font-size:1.15rem;color:#3C6A5E;border-left:3px solid #5E8B7E;border-bottom:none;padding:0 0 0 .7rem;margin:1.8rem 0 .7rem;}
+  .pose-media img{width:100%;height:100%;object-fit:cover;display:block;}
+  .pose-page ul{padding-left:1.1rem;}.pose-page ol{padding-left:1.3rem;}
+  .pose-page li{margin:.35rem 0;}
+</style>
 </head>
 
 <body>
@@ -90,6 +100,12 @@
       // 静态图片：浏览器以 index.html 所在路径解析 img的相对 URL，./ 与 ../ 会指到错误的 /figures。
       // 统一改为 basePath + 资源路径，本地与 GitHub Pages 均可加载。
       plugins: [
+        function (hook) {
+          hook.doneEach(function () {
+            var sec = document.querySelector('.markdown-section');
+            if (sec) sec.classList.toggle('pose-page', /\/poses\//.test(location.hash));
+          });
+        },
         function (hook) {
           hook.afterEach(function (html) {
             var bp = window.$docsify.basePath;
