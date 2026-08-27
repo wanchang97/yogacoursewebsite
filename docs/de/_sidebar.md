@@ -13,12 +13,12 @@
 
 - 📚 Erfahrungsbibliothek
   - 📖 Asana-Bibliothek (Wortschatz)
-    - [Berghaltung](/zh/poses/mountain.md)
-    - [Herabschauender Hund](/zh/poses/downward-dog.md)
-    - [Dreieck](/zh/poses/triangle.md)
-    - [Gedrehtes Dreieck](/zh/poses/revolved-triangle.md)
-    - [Seitwinkel](/zh/poses/extended-side-angle.md)
-    - [Pyramide](/zh/poses/pyramid.md)
+    - [Stehend · Standing](/zh/poses/standing.md)
+    - [Sitzend · Seated](/zh/poses/seated.md)
+    - [Rückenlage · Supine](/zh/poses/supine.md)
+    - [Bauchlage · Prone](/zh/poses/prone.md)
+    - [Arm- & Beinstütze](/zh/poses/arm-leg-support.md)
+    - [Armbalance & Umkehrhaltung](/zh/poses/arm-balance-inversion.md)
   - 🧩 Sequenz-Bibliothek (Absätze)
     - [Sitzende Aufwärm-Sequenz](/zh/sequences/seated-warmup.md)
     - [Vierfüßler-Stütz-Sequenz](/zh/sequences/tabletop-warmup.md)

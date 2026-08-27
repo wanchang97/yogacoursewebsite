@@ -37,7 +37,7 @@ In Uttanasana (stehende Vorbeuge) zum Beispiel ermöglicht uns die gleichmäßig
 
 > Klicken Sie auf den untenstehenden Link, um die detaillierte Liste der Bewegungen anzuzeigen. Diese Woche üben wir nur die einfachste sitzende Sequenz, um die Koordination der Atmung zu spüren.
 
-* **[Sitzende Dehn- und Entspannungssequenz](sequences/seated-warmup.md)** (Ca. 10 Minuten)
+* **[Sitzende Dehn- und Entspannungssequenz](/zh/sequences/seated-warmup.md)** (Ca. 10 Minuten)
   *Beinhaltet sitzende Bauchatmung, sitzende Katze-Kuh, Seitbeugen, Drehungen und die Haltung des Kindes.*
 
 ---
@@ -61,7 +61,7 @@ In Uttanasana (stehende Vorbeuge) zum Beispiel ermöglicht uns die gleichmäßig
 
 ## D. Übungswerkzeuge (Practice Tools)
 - [ ] Einfacher Schneidersitz: Nehmen Sie sich täglich 3 Minuten Zeit, um die seitliche und vertikale Atmung zu beobachten.
-- [ ] Wiederholung: [Sitzende Dehn- und Entspannungssequenz](sequences/seated-warmup.md) 
+- [ ] Wiederholung: [Sitzende Dehn- und Entspannungssequenz](/zh/sequences/seated-warmup.md) 
 
 ### 🎬 Deep Dive Video (10-min)
 <div class="video-container">

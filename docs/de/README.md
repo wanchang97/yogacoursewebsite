@@ -4,7 +4,7 @@
 
 Willkommen im digitalen Ressourcenraum von **Nayota Yoga**.
 
-Wenn Sie mehr über die ursprüngliche Motivation für die Erstellung dieses Ressourcenraums sowie über die Geschichte hinter "Nayota" und "Wuchang" (Vergänglichkeit) erfahren möchten, lesen Sie bitte das [Über mich (About Me)](de/preface.md).
+Wenn Sie mehr über die ursprüngliche Motivation für die Erstellung dieses Ressourcenraums sowie über die Geschichte hinter "Nayota" und "Wuchang" (Vergänglichkeit) erfahren möchten, lesen Sie bitte das [Über mich (About Me)](/de/preface.md).
 
 Diese Website widmet sich der Zusammenstellung und dem Austausch der theoretischen Inhalte, der praktischen Übungssequenzen und der wichtigsten Erkenntnisse eines 10-wöchigen Vinyasa Flow Yoga-Kurses. Ich hoffe, jedem, der hierher kommt, einen Samen für die eigenständige Yoga-Praxis einzupflanzen. Unser ultimatives Ziel ist es: ohne äußere akustische Anleitung, nur geleitet vom Feedback des eigenen Körpers und Geistes, regelmäßig und in Stille zu üben. Spüren Sie schrittweise die Veränderungen in Ihrem körperlichen Raum, bis Sie dazu in der Lage sind, Ihren eigenen inneren Raum zu beobachten und zu erweitern.
 
@@ -23,7 +23,7 @@ Der erste Teil widmet sich der Praxis grundlegender Körperhaltungen (Asanas). I
 
 ---
 
-> Bitte beginnen Sie Ihre Lernreise über die linke Navigationsleiste. Es wird dringend empfohlen, vor dem Üben konkreter Asanas zunächst den Artikel **[☯️ Was ist Yoga](de/philosophy.md)** zu lesen, um die geistige Basis und das innere Mindset für die Praxis aufzubauen.
+> Bitte beginnen Sie Ihre Lernreise über die linke Navigationsleiste. Es wird dringend empfohlen, vor dem Üben konkreter Asanas zunächst den Artikel **[☯️ Was ist Yoga](/de/philosophy.md)** zu lesen, um die geistige Basis und das innere Mindset für die Praxis aufzubauen.
 
 <br>
 

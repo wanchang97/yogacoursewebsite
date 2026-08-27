@@ -37,7 +37,7 @@ For example, in Uttanasana, the even and slow lengthening of the muscles at the 
 
 > Click the link below to view the detailed list of movements. This week we only practice the most basic seated sequence to experience the coordination of breath.
 
-* **[Seated Stretch and Relaxation Sequence](sequences/seated-warmup.md)** (Approx. 10 mins)
+* **[Seated Stretch and Relaxation Sequence](/zh/sequences/seated-warmup.md)** (Approx. 10 mins)
   *Includes seated abdominal breathing, seated Cat-Cow, side bends, twists, and Child's Pose.*
 
 ---
@@ -61,7 +61,7 @@ For example, in Uttanasana, the even and slow lengthening of the muscles at the 
 
 ## D. Practice Tools
 - [ ] Simple cross-legged sitting: Spend 3 minutes a day observing lateral and vertical breathing.
-- [ ] Review: [Seated Stretch and Relaxation Sequence](sequences/seated-warmup.md) 
+- [ ] Review: [Seated Stretch and Relaxation Sequence](/zh/sequences/seated-warmup.md) 
 
 ### 🎬 Deep Dive Video (10-min)
 <div class="video-container">

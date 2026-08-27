@@ -36,7 +36,7 @@
 
 > 点击下方链接查看详细动作清单。本周只练习最基础的坐立序列，体会呼吸的配合。
 
-* **[简易坐伸展放松序列](sequences/seated-warmup.md)** (约 10 分钟)
+* **[简易坐伸展放松序列](/zh/sequences/seated-warmup.md)** (约 10 分钟)
   *包含简易坐腹式呼吸、坐立猫牛式、侧弯、扭转、婴儿式。*
 
 ---
@@ -61,7 +61,7 @@
 
 ## D. 课后练习清单 (Practice Tools)
 - [ ] 简单盘腿坐立：每天花 3 分钟观察横向与纵向的呼吸。
-- [ ] 复习：[简易坐伸展放松序列](sequences/seated-warmup.md) 
+- [ ] 复习：[简易坐伸展放松序列](/zh/sequences/seated-warmup.md) 
 
 ### 🎬 精华视频 (10-min Deep Dive)
 <div class="video-container">

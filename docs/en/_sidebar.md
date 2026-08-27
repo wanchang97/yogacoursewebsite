@@ -13,12 +13,12 @@
 
 - 📚 Practice Library
   - 📖 Asana Library (word bank)
-    - [Mountain](/zh/poses/mountain.md)
-    - [Downward Dog](/zh/poses/downward-dog.md)
-    - [Triangle](/zh/poses/triangle.md)
-    - [Revolved Triangle](/zh/poses/revolved-triangle.md)
-    - [Extended Side Angle](/zh/poses/extended-side-angle.md)
-    - [Pyramid](/zh/poses/pyramid.md)
+    - [Standing](/zh/poses/standing.md)
+    - [Seated](/zh/poses/seated.md)
+    - [Supine](/zh/poses/supine.md)
+    - [Prone](/zh/poses/prone.md)
+    - [Arm & Leg Support](/zh/poses/arm-leg-support.md)
+    - [Arm Balance & Inversion](/zh/poses/arm-balance-inversion.md)
   - 🧩 Sequence Library (paragraphs)
     - [Seated Warm-up Sequence](/zh/sequences/seated-warmup.md)
     - [Tabletop Support Sequence](/zh/sequences/tabletop-warmup.md)

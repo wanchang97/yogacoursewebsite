@@ -13,12 +13,12 @@
 
 - 📚 练习经验积累库
   - 📖 体式库（单词库）
-    - [山式 Mountain](zh/poses/mountain.md)
-    - [下犬式 Downward Dog](zh/poses/downward-dog.md)
-    - [三角式 Triangle](zh/poses/triangle.md)
-    - [反三角式 Revolved Triangle](zh/poses/revolved-triangle.md)
-    - [侧角伸展式 Extended Side Angle](zh/poses/extended-side-angle.md)
-    - [加强侧伸展式 Pyramid](zh/poses/pyramid.md)
+    - [站立 Standing](zh/poses/standing.md)
+    - [坐立 Seated](zh/poses/seated.md)
+    - [仰卧 Supine](zh/poses/supine.md)
+    - [俯卧 Prone](zh/poses/prone.md)
+    - [手脚支撑 Arm & Leg Support](zh/poses/arm-leg-support.md)
+    - [手臂平衡与倒立 Arm Balance & Inversion](zh/poses/arm-balance-inversion.md)
   - 🧩 序列库（段落库）
     - [简易坐伸展放松序列](zh/sequences/seated-warmup.md)
     - [四角板凳支撑稳定序列](zh/sequences/tabletop-warmup.md)
