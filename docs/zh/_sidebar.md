@@ -22,6 +22,7 @@
   - 🧩 序列库（段落库）
     - [简易坐伸展放松序列](zh/sequences/seated-warmup.md)
     - [四角板凳支撑稳定序列](zh/sequences/tabletop-warmup.md)
+    - [🌊 完整流瑜伽串联 · 动作锚点库](zh/sequences/vinyasa-full-flow.md)
 
 - 🌐 语言选择
   - **🇨🇳 中文版 (Chinese)**
