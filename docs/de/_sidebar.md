@@ -9,7 +9,7 @@
   - [🌱 Frühjahrssemester (10 Einheiten × 60 Min)](de/spring-course.md)
   - [☀️ Sommer-Kompaktkurs (5 Einheiten × 75 Min)](de/summer-course.md)
   - 🍂 Herbstkurs (in Vorbereitung)
-  - ❄️ Winterkurs (in Vorbereitung)
+  - [❄️ Wintersemester 26/27 (14 Einheiten × 75 Min)](de/winter-course.md)
 
 - 📚 Erfahrungsbibliothek
   - 📖 Asana-Bibliothek (Wortschatz)
