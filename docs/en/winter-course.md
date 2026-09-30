@@ -1,7 +1,8 @@
 # ❄️ Winter Semester · WiSe 2026/27 (14 sessions × 75 min)
 
 **When**: Thursdays **4:00–5:15 PM**, 22 October 2026 – 4 February 2027 (Christmas break: no class on 24 Dec and 31 Dec)
-**Where**: Bauhaus Unisport · see your registration for the room
+
+**Where**: Mattenraum 1st. Etage Sporthalle Falkenburg
 
 **Introduction**: The winter semester brings a new university sport course. We start again from the breath and — as in spring — build the whole Vinyasa sequence one theme per week. From the summer compact course we keep the structure: every 75-minute session has **warm-up → flow → cool-down → close**. In the last class before Christmas we practise the whole sequence with music for the first time; after New Year we go a little deeper — backbends, first inversions — and close on 4 February with the full flow. The full video with music is on the [Home page](/en/README.md).
 

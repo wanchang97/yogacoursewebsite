@@ -1,7 +1,8 @@
 # ❄️ Wintersemester · WiSe 2026/27 (14 Einheiten × 75 Min)
 
 **Zeit**: donnerstags **16:00–17:15 Uhr**, 22. Oktober 2026 – 4. Februar 2027 (Weihnachtspause: kein Kurs am 24.12. und 31.12.)
-**Ort**: Bauhaus Unisport · genauer Raum siehe Anmeldung
+
+**Ort**: Mattenraum 1st. Etage Sporthalle Falkenburg
 
 **Einführung**: Im Wintersemester startet ein neuer Hochschulsport-Kurs. Wir beginnen wieder beim Atem und bauen – wie im Frühjahr – Woche für Woche die ganze Vinyasa-Sequenz auf. Aus dem Sommer-Kompaktkurs nehmen wir mit: Jede 75-Minuten-Einheit enthält **Aufwärmen → Flow → Cool-down → Abschluss**. In der letzten Stunde vor Weihnachten üben wir zum ersten Mal die ganze Sequenz mit Musik; nach Neujahr gehen wir ein Stück tiefer – Rückbeugen, erste Umkehrhaltungen – und schließen am 4. Februar mit dem ganzen Flow ab. Das vollständige Video mit Musik findest du auf der [Startseite](/de/README.md).
 
