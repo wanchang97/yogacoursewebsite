@@ -1,10 +1,10 @@
-# ❄️ Winter Semester · WiSe 2026/27 (13 sessions × 75 min)
+# 🍂 Autumn Course · Winter Semester 2026/27 (13 sessions × 75 min)
 
 **When**: Thursdays **4:00–5:15 PM**, 22 October 2026 – 4 February 2027 (no class on 29 Oct; Christmas break: no class on 24 Dec and 31 Dec)
 
 **Where**: Mattenraum 1st. Etage Sporthalle Falkenburg
 
-**Introduction**: The winter semester brings a new university sport course. We start again from the breath and — as in spring — build the whole Vinyasa sequence one theme per week. From the summer compact course we keep the structure: every 75-minute session has **warm-up → flow → cool-down → close**. In the last class before Christmas we practise the whole sequence with music for the first time; after New Year we go a little deeper — backbends, first inversions — and close on 4 February with the full flow. The full video with music is on the [Home page](/en/README.md).
+**Introduction**: The autumn (winter semester) brings a new university sport course. We start again from the breath and — as in spring — build the whole Vinyasa sequence one theme per week. From the summer compact course we keep the structure: every 75-minute session has **warm-up → flow → cool-down → close**. In the last class before Christmas we practise the whole sequence with music for the first time; after New Year we go a little deeper — backbends, first inversions — and close on 4 February with the full flow. The full video with music is on the [Home page](/en/README.md).
 
 > Attitude: sharing, not a test. 80% effort, in dialogue with the body. → [☯️ What is Yoga](/en/philosophy.md)
 
@@ -29,7 +29,7 @@
 
 | # | Date | Theme | Chapters |
 |---|------|------|---------|
-| 1 | 22 Oct | Breathing & Space · Getting to know each other | [Week 1: Breathing & Space](/en/week1-breathing.md) · [Seated Warm-up](/zh/sequences/seated-warmup.md) |
+| 1 | 22 Oct | Breathing & Space · Getting to know each other | [🌅 First Session](/en/first-class.md) · [Week 1: Breathing & Space](/en/week1-breathing.md) · [Seated Warm-up](/zh/sequences/seated-warmup.md) |
 | – | 29 Oct | **No class (cancelled)** | |
 | 2 | 5 Nov | Grounding: Tabletop | [Week 2: Tabletop](/en/week2-tabletopsequence.md) · [Tabletop Sequence](/zh/sequences/tabletop-warmup.md) |
 | 3 | 12 Nov | Standing poses in detail | [Weeks 3–4: Support & Flow](/en/week3-support-flow.md) · [Standing poses](/zh/poses/standing.md) |

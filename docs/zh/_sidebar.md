@@ -4,12 +4,13 @@
 - 🌅 新的开始
   - [我是谁（关于我）](zh/preface.md)
   - [瑜伽是什么](zh/philosophy.md)
+  - [第一课 · 呼吸与空间](zh/first-class.md)
 
 - 📅 课程安排
   - [🌱 春季学期课程（10 节 × 60 分钟）](zh/spring-course.md)
   - [☀️ 夏季精修课（5 节 × 75 分钟）](zh/summer-course.md)
-  - 🍂 秋季学期课程（筹备中）
-  - [❄️ 冬季学期课程 WiSe 26/27（13 节 × 75 分钟）](zh/winter-course.md)
+  - [🍂 秋季学期课程 WiSe 26/27（13 节 × 75 分钟）](zh/autumn-course.md)
+  - ❄️ 冬季学期课程（筹备中）
 
 - 📚 练习经验积累库
   - 📖 体式库（单词库）

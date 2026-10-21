@@ -4,12 +4,13 @@
 - 🌅 A New Beginning
   - [Who I Am (About Me)](en/preface.md)
   - [What is Yoga](en/philosophy.md)
+  - [First Session · Breath and Space](en/first-class.md)
 
 - 📅 Courses
   - [🌱 Spring Semester (10 sessions × 60 min)](en/spring-course.md)
   - [☀️ Summer Compact Course (5 sessions × 75 min)](en/summer-course.md)
-  - 🍂 Autumn Course (coming soon)
-  - [❄️ Winter Semester 26/27 (13 sessions × 75 min)](en/winter-course.md)
+  - [🍂 Autumn Course WiSe 26/27 (13 sessions × 75 min)](en/autumn-course.md)
+  - ❄️ Winter Course (coming soon)
 
 - 📚 Practice Library
   - 📖 Asana Library (word bank)
