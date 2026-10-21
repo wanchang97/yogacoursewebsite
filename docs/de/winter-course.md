@@ -1,6 +1,6 @@
-# ❄️ Wintersemester · WiSe 2026/27 (14 Einheiten × 75 Min)
+# ❄️ Wintersemester · WiSe 2026/27 (13 Einheiten × 75 Min)
 
-**Zeit**: donnerstags **16:00–17:15 Uhr**, 22. Oktober 2026 – 4. Februar 2027 (Weihnachtspause: kein Kurs am 24.12. und 31.12.)
+**Zeit**: donnerstags **16:00–17:15 Uhr**, 22. Oktober 2026 – 4. Februar 2027 (kein Kurs am 29.10.; Weihnachtspause: kein Kurs am 24.12. und 31.12.)
 
 **Ort**: Mattenraum 1st. Etage Sporthalle Falkenburg
 
@@ -20,30 +20,30 @@
 
 **Drei Phasen im Semester:**
 1. **Fundament (Einheit 1–4)**: Atem, Vierfüßler, Stehhaltungen.
-2. **Die Sequenz vervollständigen (Einheit 5–9)**: Vorbeuge, Balance, Drehung & sitzende Dehnung – vor Weihnachten zum ersten Mal komplett.
-3. **Ein Stück tiefer (Einheit 10–14)**: Nach der Pause zurück auf die Matte, Rückbeugen und erste Umkehrhaltungen, zum Schluss der ganze Flow.
+2. **Die Sequenz vervollständigen (Einheit 5–8)**: Vorbeuge, Balance, Drehung & sitzende Dehnung – vor Weihnachten zum ersten Mal komplett.
+3. **Ein Stück tiefer (Einheit 9–13)**: Nach der Pause zurück auf die Matte, Rückbeugen und erste Umkehrhaltungen, zum Schluss der ganze Flow.
 
 ---
 
-## B. Die vierzehn Einheiten
+## B. Die dreizehn Einheiten
 
 | # | Datum | Thema | Kapitel |
 |---|------|------|---------|
 | 1 | 22.10. | Atmung & Raum · Kennenlernen | [Woche 1: Atmung & Raum](/de/week1-breathing.md) · [Sitzende Aufwärm-Sequenz](/zh/sequences/seated-warmup.md) |
-| 2 | 29.10. | Basis: Vierfüßlerstand | [Woche 2: Vierfüßlerstand](/de/week2-tabletopsequence.md) · [Vierfüßler-Sequenz](/zh/sequences/tabletop-warmup.md) |
-| 3 | 05.11. | Stehhaltungen im Detail | [Woche 3–4: Stütze & Flow](/de/week3-support-flow.md) · [Stehende Asanas](/zh/poses/standing.md) |
-| 4 | 12.11. | Stehsequenz & Flow | [Woche 3–4: Stütze & Flow](/de/week3-support-flow.md) |
-| 5 | 19.11. | Vorbeuge & Zentrum · andere Seite | [Woche 5–6: Vorbeuge & Zentrum](/de/week5-center-fold.md) |
-| 6 | 26.11. | Balance I: Krieger III · Flugzeug | [Woche 7–8: Balance](/de/week7-space-backbend.md) |
-| 7 | 03.12. | Balance II: Adler · erste Hälfte verbinden | [Woche 7–8: Balance](/de/week7-space-backbend.md) |
-| 8 | 10.12. | Drehung · sitzende Dehnung · Savasana | [Woche 9–10: Drehung · Sitzen · Savasana](/de/week9-twist-vinyasa.md) |
-| 9 | 17.12. | 🎄 Mit Musik · zum ersten Mal die ganze Sequenz | [Vinyasa-Flow · Anker-Bibliothek](/zh/sequences/vinyasa-full-flow.md) |
+| – | 29.10. | **Kein Kurs (abgesagt)** | |
+| 2 | 05.11. | Basis: Vierfüßlerstand | [Woche 2: Vierfüßlerstand](/de/week2-tabletopsequence.md) · [Vierfüßler-Sequenz](/zh/sequences/tabletop-warmup.md) |
+| 3 | 12.11. | Stehhaltungen im Detail | [Woche 3–4: Stütze & Flow](/de/week3-support-flow.md) · [Stehende Asanas](/zh/poses/standing.md) |
+| 4 | 19.11. | Stehsequenz & Flow | [Woche 3–4: Stütze & Flow](/de/week3-support-flow.md) |
+| 5 | 26.11. | Vorbeuge & Zentrum · andere Seite | [Woche 5–6: Vorbeuge & Zentrum](/de/week5-center-fold.md) |
+| 6 | 03.12. | Balance: Krieger III · Flugzeug · Adler | [Woche 7–8: Balance](/de/week7-space-backbend.md) |
+| 7 | 10.12. | Drehung · sitzende Dehnung · Savasana | [Woche 9–10: Drehung · Sitzen · Savasana](/de/week9-twist-vinyasa.md) |
+| 8 | 17.12. | 🎄 Mit Musik · zum ersten Mal die ganze Sequenz | [Vinyasa-Flow · Anker-Bibliothek](/zh/sequences/vinyasa-full-flow.md) |
 | – | 18.12. – 06.01. | **Weihnachtspause · kein Kurs** | Zuhause: täglich 3 Minuten still sitzen und den Atem beobachten |
-| 10 | 07.01. | Zurück auf die Matte: Atem + langsame Wiederholung | [Woche 1: Atmung & Raum](/de/week1-breathing.md) |
-| 11 | 14.01. | Rückbeugen: Raum im Brustkorb | [Bauchlage](/zh/poses/prone.md) · [Rückenlage](/zh/poses/supine.md) |
-| 12 | 21.01. | Erste Umkehrhaltungen: Schulterstand · Pflug (mit Varianten) | [Armbalance & Umkehrhaltung](/zh/poses/arm-balance-inversion.md) |
-| 13 | 28.01. | Wunsch-Einheit: nach eurem Feedback | je nach Gruppe |
-| 14 | 04.02. | 🌟 Semesterabschluss · die ganze Sequenz mit Musik | [Vinyasa-Flow · Anker-Bibliothek](/zh/sequences/vinyasa-full-flow.md) |
+| 9 | 07.01. | Zurück auf die Matte: Atem + langsame Wiederholung | [Woche 1: Atmung & Raum](/de/week1-breathing.md) |
+| 10 | 14.01. | Rückbeugen: Raum im Brustkorb | [Bauchlage](/zh/poses/prone.md) · [Rückenlage](/zh/poses/supine.md) |
+| 11 | 21.01. | Erste Umkehrhaltungen: Schulterstand · Pflug (mit Varianten) | [Armbalance & Umkehrhaltung](/zh/poses/arm-balance-inversion.md) |
+| 12 | 28.01. | Wunsch-Einheit: nach eurem Feedback | je nach Gruppe |
+| 13 | 04.02. | 🌟 Semesterabschluss · die ganze Sequenz mit Musik | [Vinyasa-Flow · Anker-Bibliothek](/zh/sequences/vinyasa-full-flow.md) |
 
 ### Schwerpunkte
 
@@ -57,23 +57,21 @@
 
 **Einheit 5 · Vorbeuge & Zentrum** – in der Vorbeuge zur Mittellinie zurück; die Spiegelseite mit Track 3.
 
-**Einheit 6 · Balance I** – Krieger III, Flugzeug: Stabilität in der Bewegung, mit Wand oder Block.
+**Einheit 6 · Balance** – Krieger III, Flugzeug, Adler: Stabilität in der Bewegung, mit Wand oder Block; Vierfüßler → Stand → Balance mit Musik verbinden (Track 1 → 2 → 4).
 
-**Einheit 7 · Balance II** – Adler; Vierfüßler → Stand → Balance mit Musik verbinden (Track 1 → 2 → 4).
+**Einheit 7 · Drehung & sitzende Dehnung** – Kopf-zum-Knie, Marichi-Drehung, Kompass, umgekehrter Tisch (Track 5, 6); genug Zeit für Savasana.
 
-**Einheit 8 · Drehung & sitzende Dehnung** – Kopf-zum-Knie, Marichi-Drehung, Kompass, umgekehrter Tisch (Track 5, 6); genug Zeit für Savasana.
+**Einheit 8 · Das erste Mal komplett** – letzte Stunde vor Weihnachten, nichts Neues: vom Vierfüßler bis zur Endentspannung durchgehend mit Musik (ca. 50 Min).
 
-**Einheit 9 · Das erste Mal komplett** – letzte Stunde vor Weihnachten, nichts Neues: vom Vierfüßler bis zur Endentspannung durchgehend mit Musik (ca. 50 Min).
+**Einheit 9 · Zurück auf die Matte** – nach der Pause zuerst zurück zum Atem. Die ganze Sequenz langsam mit Ansage, eine Seite genügt.
 
-**Einheit 10 · Zurück auf die Matte** – nach der Pause zuerst zurück zum Atem. Die ganze Sequenz langsam mit Ansage, eine Seite genügt.
+**Einheit 10 · Rückbeugen** – Kobra, Heuschrecke, Brücke, für wer mag das Rad; nach jeder Rückbeuge eine ausgleichende Haltung.
 
-**Einheit 11 · Rückbeugen** – Kobra, Heuschrecke, Brücke, für wer mag das Rad; nach jeder Rückbeuge eine ausgleichende Haltung.
+**Einheit 11 · Erste Umkehrhaltungen** – Schulterstand und Pflug, zuerst in Varianten mit Wand und Unterlage; bei Nackenbeschwerden in der Variante bleiben.
 
-**Einheit 12 · Erste Umkehrhaltungen** – Schulterstand und Pflug, zuerst in Varianten mit Wand und Unterlage; bei Nackenbeschwerden in der Variante bleiben.
+**Einheit 12 · Wunsch-Einheit** – nach dem Feedback aus den ersten elf Einheiten vertiefen wir die ein, zwei Haltungen oder Abschnitte, die ihr euch am meisten wünscht.
 
-**Einheit 13 · Wunsch-Einheit** – nach dem Feedback aus den ersten zwölf Einheiten vertiefen wir die ein, zwei Haltungen oder Abschnitte, die ihr euch am meisten wünscht.
-
-**Einheit 14 · Semesterabschluss** – alle vier Phasen, die ganze Sequenz mit Musik, Rückbeuge und Schulterstand in einer kurzen Pause vor dem Cool-down; zum Schluss gemeinsames Chanting.
+**Einheit 13 · Semesterabschluss** – alle vier Phasen, die ganze Sequenz mit Musik, Rückbeuge und Schulterstand in einer kurzen Pause vor dem Cool-down; zum Schluss gemeinsames Chanting.
 
 ---
 

@@ -9,7 +9,7 @@
   - [🌱 Spring Semester (10 sessions × 60 min)](en/spring-course.md)
   - [☀️ Summer Compact Course (5 sessions × 75 min)](en/summer-course.md)
   - 🍂 Autumn Course (coming soon)
-  - [❄️ Winter Semester 26/27 (14 sessions × 75 min)](en/winter-course.md)
+  - [❄️ Winter Semester 26/27 (13 sessions × 75 min)](en/winter-course.md)
 
 - 📚 Practice Library
   - 📖 Asana Library (word bank)

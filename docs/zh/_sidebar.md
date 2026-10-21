@@ -9,7 +9,7 @@
   - [🌱 春季学期课程（10 节 × 60 分钟）](zh/spring-course.md)
   - [☀️ 夏季精修课（5 节 × 75 分钟）](zh/summer-course.md)
   - 🍂 秋季学期课程（筹备中）
-  - [❄️ 冬季学期课程 WiSe 26/27（14 节 × 75 分钟）](zh/winter-course.md)
+  - [❄️ 冬季学期课程 WiSe 26/27（13 节 × 75 分钟）](zh/winter-course.md)
 
 - 📚 练习经验积累库
   - 📖 体式库（单词库）
