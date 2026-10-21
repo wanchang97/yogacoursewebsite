@@ -1,6 +1,6 @@
 <style>
 .flow-intro{background:#eef4f1;border-left:4px solid #5E8B7E;border-radius:8px;padding:.8rem 1rem;margin:1rem 0 1.5rem;font-size:.93rem}
-.flow-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px;margin:.6rem 0 2rem}
+.flow-grid{display:grid;align-items:start;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px;margin:.6rem 0 2rem}
 .flow-card{background:#fff;border:1px solid #e3e9e6;border-radius:12px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.05)}
 .flow-card .m{aspect-ratio:16/9;background:#1f2a27;position:relative}
 .flow-card .m img,.flow-card .m video{width:100%;height:100%;object-fit:cover;display:block}
@@ -15,6 +15,13 @@
 .flow-card .s .todo{color:#b45309;background:#fff7e6;border-radius:6px;padding:1px 6px}
 .flow-sec{margin-top:2.2rem}.flow-sec h2{border-bottom:2px solid #5E8B7E;padding-bottom:.3rem}
 .flow-sec p.note{color:#5b6b66;font-size:.9rem;margin:.3rem 0 .6rem}
+.flow-card details.ex{margin-top:.45rem;font-size:.84rem;color:#3d4a45;line-height:1.6}
+.flow-card details.ex summary{cursor:pointer;color:#3C6A5E;font-weight:600;font-size:.76rem;list-style:none}
+.flow-card details.ex summary::-webkit-details-marker{display:none}
+.flow-card details.ex summary::before{content:'▸ '}
+.flow-card details.ex[open] summary::before{content:'▾ '}
+.flow-card details.ex p{margin:.4rem 0}.flow-card details.ex ul{margin:.3rem 0;padding-left:1.1rem}
+.flow-card details.ex li{margin:.15rem 0}
 @media (max-width:480px){.flow-grid{grid-template-columns:repeat(2,1fr);gap:9px}}
 </style>
 
@@ -25,7 +32,7 @@
 <div class="flow-intro">
 这一页把一整堂流瑜伽课按<b>练习顺序</b>铺开：每个动作是一个"锚点"——来自我自己的练习录像（侧面机位），
 <b>定帧</b>用于静态体式，<b>动图</b>用于过渡与动态练习。共 <b>82</b> 个锚点（57 定帧 · 25 动图）。<br>
-🔗 已写好体式卡的动作可点击进入；标 <span style="color:#b45309">讲解待补充</span> 的，讲解会逐步补进体式库。
+🔗 已写好体式卡的动作可点击进入；有讲解的动作点「▸ 讲解」展开；标 <span style="color:#b45309">讲解待补充</span> 的，讲解会逐步补进体式库。
 时间码为「来源视频 分:秒」，s1 = 第一段（41 分）、s2 = 第二段（25 分）。
 </div>
 
@@ -35,7 +42,7 @@
 
 <p class="note">坐稳、呼吸，再用侧展、颈侧、扭转唤醒脊柱。</p>
 <div class="flow-grid">
-<div class="flow-card"><div class="m"><img src="figures/video/seated-pranayama.jpg" alt="坐姿调息" loading="lazy"><span class="tag">定帧</span></div><div class="b"><div class="n"><small>01</small>坐姿调息</div><div class="t">s1 4:57</div><div class="s"><span class="todo">讲解待补充</span></div></div></div>
+<div class="flow-card"><div class="m"><img src="figures/video/seated-pranayama.jpg" alt="坐姿调息" loading="lazy"><span class="tag">定帧</span></div><div class="b"><div class="n"><small>01</small>坐姿调息</div><div class="t">s1 4:57</div><div class="s"><details class="ex"><summary>讲解</summary><p><b>坐稳，是呼吸的前提。</b></p><p>可以在臀部下方垫一块瑜伽砖，让双膝低于髋部，双膝尽量贴近地垫。身体的稳定会带来肌肉的放松和心的安定。</p><p>常见的打坐姿势：</p><ul><li>🧘 <b>全莲花</b>：两只脚分别放到对侧大腿上（靠近大腿根部）。</li><li><b>半莲花</b>：一侧的脚放到对侧大腿上，另一侧的腿放在地垫上。</li><li><b>散盘</b>：两条腿都放在地垫上。</li><li><b>双鸽式</b>（火木式 Agnistambhasana）：两条小腿上下叠放，两只脚分别放到对侧膝盖上方。</li></ul><p>选一个此刻让你坐得最稳、最舒服的姿势就好——坐稳了，再开始观察呼吸。</p></details></div></div></div>
 <div class="flow-card"><div class="m"><img src="figures/video/seated-side-stretch.jpg" alt="坐姿侧伸展" loading="lazy"><span class="tag">定帧</span></div><div class="b"><div class="n"><small>02</small>坐姿侧伸展</div><div class="t">s1 5:18</div><div class="s"><span class="todo">讲解待补充</span></div></div></div>
 <div class="flow-card"><div class="m"><img src="figures/video/neck-stretch.jpg" alt="脖颈伸展" loading="lazy"><span class="tag">定帧</span></div><div class="b"><div class="n"><small>03</small>脖颈伸展</div><div class="t">s1 6:03</div><div class="s"><span class="todo">讲解待补充</span></div></div></div>
 <div class="flow-card"><div class="m"><video src="figures/video/clips/seated-twist.mp4" autoplay muted loop playsinline preload="metadata"></video><span class="tag clip">动图</span></div><div class="b"><div class="n"><small>04</small>坐姿侧向扭转</div><div class="t">s1 6:10–6:21</div><div class="s"><span class="todo">讲解待补充</span></div></div></div>
@@ -184,4 +191,4 @@
 
 ---
 
-<p style="font-size:.85rem;color:#8a938d">素材：<code>figures/video/</code>（定帧 .jpg，动图 <code>clips/*.mp4</code>）· 源数据：<code>figures/video/catalog.csv</code> · 改动时间码后运行 <code>build_flow_index.py</code> 即可重生成本页。</p>
+<p style="font-size:.85rem;color:#8a938d">素材：<code>figures/video/</code>（定帧 .jpg，动图 <code>clips/*.mp4</code>）· 源数据：<code>figures/video/catalog.csv</code> · 讲解写在 <code>figures/video/notes/&lt;slug&gt;.md</code>。改动时间码或讲解后运行 <code>build_flow_index.py</code> 即可重生成本页。</p>

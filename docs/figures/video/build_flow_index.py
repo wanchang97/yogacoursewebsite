@@ -1,9 +1,31 @@
 #!/usr/bin/env python3
 """Generate docs/zh/sequences/vinyasa-full-flow.md from figures/video/catalog.csv"""
-import csv, os
+import csv, os, re, html
 D = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..')
 CAT = os.path.join(D, 'figures', 'video', 'catalog.csv')
 OUT = os.path.join(D, 'zh', 'sequences', 'vinyasa-full-flow.md')
+NOTES = os.path.join(D, 'figures', 'video', 'notes')   # notes/<slug>.md = 讲解 for that anchor
+
+def inline(t):
+    t = html.escape(t, quote=False)
+    return re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', t)
+
+def md2html(txt):
+    # tiny markdown: paragraphs, "- " bullet lists, **bold**
+    out, ul = [], False
+    for line in txt.strip().splitlines():
+        line = line.rstrip()
+        if line.startswith('- '):
+            if not ul: out.append('<ul>'); ul = True
+            out.append(f'<li>{inline(line[2:])}</li>'); continue
+        if ul: out.append('</ul>'); ul = False
+        if line: out.append(f'<p>{inline(line)}</p>')
+    if ul: out.append('</ul>')
+    return ''.join(out)
+
+def load_note(slug):
+    p = os.path.join(NOTES, slug + '.md')
+    return md2html(open(p, encoding='utf-8').read()) if os.path.exists(p) else None
 
 SECTIONS = [  # (first_order, last_order, title, note)
  (1, 5,  '一 · 坐姿调息与热身',   '坐稳、呼吸，再用侧展、颈侧、扭转唤醒脊柱。'),
@@ -26,7 +48,7 @@ n_still = sum(r['type']=='still' for r in rows); n_clip = len(rows)-n_still
 
 css = """<style>
 .flow-intro{background:#eef4f1;border-left:4px solid #5E8B7E;border-radius:8px;padding:.8rem 1rem;margin:1rem 0 1.5rem;font-size:.93rem}
-.flow-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px;margin:.6rem 0 2rem}
+.flow-grid{display:grid;align-items:start;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px;margin:.6rem 0 2rem}
 .flow-card{background:#fff;border:1px solid #e3e9e6;border-radius:12px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.05)}
 .flow-card .m{aspect-ratio:16/9;background:#1f2a27;position:relative}
 .flow-card .m img,.flow-card .m video{width:100%;height:100%;object-fit:cover;display:block}
@@ -41,6 +63,13 @@ css = """<style>
 .flow-card .s .todo{color:#b45309;background:#fff7e6;border-radius:6px;padding:1px 6px}
 .flow-sec{margin-top:2.2rem}.flow-sec h2{border-bottom:2px solid #5E8B7E;padding-bottom:.3rem}
 .flow-sec p.note{color:#5b6b66;font-size:.9rem;margin:.3rem 0 .6rem}
+.flow-card details.ex{margin-top:.45rem;font-size:.84rem;color:#3d4a45;line-height:1.6}
+.flow-card details.ex summary{cursor:pointer;color:#3C6A5E;font-weight:600;font-size:.76rem;list-style:none}
+.flow-card details.ex summary::-webkit-details-marker{display:none}
+.flow-card details.ex summary::before{content:'▸ '}
+.flow-card details.ex[open] summary::before{content:'▾ '}
+.flow-card details.ex p{margin:.4rem 0}.flow-card details.ex ul{margin:.3rem 0;padding-left:1.1rem}
+.flow-card details.ex li{margin:.15rem 0}
 @media (max-width:480px){.flow-grid{grid-template-columns:repeat(2,1fr);gap:9px}}
 </style>"""
 
@@ -50,7 +79,7 @@ out.append('<p class="pose-sanskrit">Vinyasa Full Flow · Pose Anchor Library</p
 out.append(f"""<div class="flow-intro">
 这一页把一整堂流瑜伽课按<b>练习顺序</b>铺开：每个动作是一个"锚点"——来自我自己的练习录像（侧面机位），
 <b>定帧</b>用于静态体式，<b>动图</b>用于过渡与动态练习。共 <b>{len(rows)}</b> 个锚点（{n_still} 定帧 · {n_clip} 动图）。<br>
-🔗 已写好体式卡的动作可点击进入；标 <span style="color:#b45309">讲解待补充</span> 的，讲解会逐步补进体式库。
+🔗 已写好体式卡的动作可点击进入；有讲解的动作点「▸ 讲解」展开；标 <span style="color:#b45309">讲解待补充</span> 的，讲解会逐步补进体式库。
 时间码为「来源视频 分:秒」，s1 = 第一段（41 分）、s2 = 第二段（25 分）。
 </div>
 """)
@@ -68,16 +97,21 @@ for a,b,title,note in SECTIONS:
         else:
             media = (f'<video src="figures/video/clips/{slug}.mp4" autoplay muted loop playsinline preload="metadata"></video>'
                      f'<span class="tag clip">动图</span>')
+        nh = load_note(slug)
         if slug in CARDS:
             status = f'<a href="#/zh/poses/{CARDS[slug]}">体式卡 →</a>'
+        elif nh:
+            status = ''
         else:
             status = '<span class="todo">讲解待补充</span>'
+        if nh:
+            status += f'<details class="ex"><summary>讲解</summary>{nh}</details>'
         out.append(f'<div class="flow-card"><div class="m">{media}</div>'
                    f'<div class="b"><div class="n"><small>{int(o):02d}</small>{zh}</div>'
                    f'<div class="t">s{vid} {t}</div><div class="s">{status}</div></div></div>')
     out.append('</div>\n\n</div>\n')
 
-out.append('\n---\n\n<p style="font-size:.85rem;color:#8a938d">素材：<code>figures/video/</code>（定帧 .jpg，动图 <code>clips/*.mp4</code>）· 源数据：<code>figures/video/catalog.csv</code> · 改动时间码后运行 <code>build_flow_index.py</code> 即可重生成本页。</p>\n')
+out.append('\n---\n\n<p style="font-size:.85rem;color:#8a938d">素材：<code>figures/video/</code>（定帧 .jpg，动图 <code>clips/*.mp4</code>）· 源数据：<code>figures/video/catalog.csv</code> · 讲解写在 <code>figures/video/notes/&lt;slug&gt;.md</code>。改动时间码或讲解后运行 <code>build_flow_index.py</code> 即可重生成本页。</p>\n')
 
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
 open(OUT, 'w', encoding='utf-8').write(css + '\n\n' + '\n'.join(out))
