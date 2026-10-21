@@ -4,7 +4,6 @@
 - 🌅 Ein neuer Anfang
   - [Wer ich bin (Über mich)](de/preface.md)
   - [Was ist Yoga](de/philosophy.md)
-  - [Erste Einheit · Atem und Raum](de/first-class.md)
 
 - 📅 Kurse
   - [🌱 Frühjahrssemester (10 Einheiten × 60 Min)](de/spring-course.md)

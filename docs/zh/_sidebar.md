@@ -4,7 +4,6 @@
 - 🌅 新的开始
   - [我是谁（关于我）](zh/preface.md)
   - [瑜伽是什么](zh/philosophy.md)
-  - [第一课 · 呼吸与空间](zh/first-class.md)
 
 - 📅 课程安排
   - [🌱 春季学期课程（10 节 × 60 分钟）](zh/spring-course.md)

@@ -29,7 +29,7 @@
 
 | # | Datum | Thema | Kapitel |
 |---|------|------|---------|
-| 1 | 22.10. | Atmung & Raum · Kennenlernen | [🌅 Erste Einheit](/de/first-class.md) · [Woche 1: Atmung & Raum](/de/week1-breathing.md) · [Sitzende Aufwärm-Sequenz](/zh/sequences/seated-warmup.md) |
+| 1 | 22.10. | Atmung & Raum · Kennenlernen | [Woche 1: Atmung & Raum](/de/week1-breathing.md) · [Sitzende Aufwärm-Sequenz](/zh/sequences/seated-warmup.md) |
 | – | 29.10. | **Kein Kurs (abgesagt)** | |
 | 2 | 05.11. | Basis: Vierfüßlerstand | [Woche 2: Vierfüßlerstand](/de/week2-tabletopsequence.md) · [Vierfüßler-Sequenz](/zh/sequences/tabletop-warmup.md) |
 | 3 | 12.11. | Stehhaltungen im Detail | [Woche 3–4: Stütze & Flow](/de/week3-support-flow.md) · [Stehende Asanas](/zh/poses/standing.md) |

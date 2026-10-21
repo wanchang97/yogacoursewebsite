@@ -29,7 +29,7 @@
 
 | # | Date | Theme | Chapters |
 |---|------|------|---------|
-| 1 | 22 Oct | Breathing & Space · Getting to know each other | [🌅 First Session](/en/first-class.md) · [Week 1: Breathing & Space](/en/week1-breathing.md) · [Seated Warm-up](/zh/sequences/seated-warmup.md) |
+| 1 | 22 Oct | Breathing & Space · Getting to know each other | [Week 1: Breathing & Space](/en/week1-breathing.md) · [Seated Warm-up](/zh/sequences/seated-warmup.md) |
 | – | 29 Oct | **No class (cancelled)** | |
 | 2 | 5 Nov | Grounding: Tabletop | [Week 2: Tabletop](/en/week2-tabletopsequence.md) · [Tabletop Sequence](/zh/sequences/tabletop-warmup.md) |
 | 3 | 12 Nov | Standing poses in detail | [Weeks 3–4: Support & Flow](/en/week3-support-flow.md) · [Standing poses](/zh/poses/standing.md) |

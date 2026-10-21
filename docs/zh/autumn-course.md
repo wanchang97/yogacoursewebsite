@@ -29,7 +29,7 @@
 
 | # | 日期 | 主题 | 相关段落 |
 |---|------|------|---------|
-| 1 | 10 月 22 日 | 呼吸与空间 · 认识彼此 | [🌅 第一课讲述与演练](/zh/first-class.md) · [第1周：呼吸与空间](/zh/week1-breathing.md) · [简易坐伸展放松序列](/zh/sequences/seated-warmup.md) |
+| 1 | 10 月 22 日 | 呼吸与空间 · 认识彼此 | [第1周：呼吸与空间](/zh/week1-breathing.md) · [简易坐伸展放松序列](/zh/sequences/seated-warmup.md) |
 | – | 10 月 29 日 | **停课** | |
 | 2 | 11 月 5 日 | 根基：四角板凳 | [第2周：四角板凳详解](/zh/week2-tabletopsequence.md) · [四角板凳支撑稳定序列](/zh/sequences/tabletop-warmup.md) |
 | 3 | 11 月 12 日 | 站立体式详解 | [第3周：站立体式详解](/zh/week3-standingsequence.md) · [站立体式库](/zh/poses/standing.md) |

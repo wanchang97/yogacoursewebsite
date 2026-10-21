@@ -4,7 +4,6 @@
 - 🌅 A New Beginning
   - [Who I Am (About Me)](en/preface.md)
   - [What is Yoga](en/philosophy.md)
-  - [First Session · Breath and Space](en/first-class.md)
 
 - 📅 Courses
   - [🌱 Spring Semester (10 sessions × 60 min)](en/spring-course.md)
