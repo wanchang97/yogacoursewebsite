@@ -22,6 +22,7 @@
   - 🧩 Sequence Library (paragraphs)
     - [Seated Warm-up Sequence](/zh/sequences/seated-warmup.md)
     - [Tabletop Support Sequence](/zh/sequences/tabletop-warmup.md)
+    - [🌊 Full Vinyasa Flow · Pose Anchor Library](en/sequences/vinyasa-full-flow.md)
   - *(content currently in Chinese)*
 
 - 🌐 Languages

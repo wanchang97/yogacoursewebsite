@@ -22,6 +22,7 @@
   - 🧩 Sequenz-Bibliothek (Absätze)
     - [Sitzende Aufwärm-Sequenz](/zh/sequences/seated-warmup.md)
     - [Vierfüßler-Stütz-Sequenz](/zh/sequences/tabletop-warmup.md)
+    - [🌊 Vinyasa-Flow · Anker-Bibliothek](de/sequences/vinyasa-full-flow.md)
   - *(Inhalte zurzeit auf Chinesisch)*
 
 - 🌐 Sprachen

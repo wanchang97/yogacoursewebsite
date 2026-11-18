@@ -191,4 +191,4 @@
 
 ---
 
-<p style="font-size:.85rem;color:#8a938d">素材：<code>figures/video/</code>（定帧 .jpg，动图 <code>clips/*.mp4</code>）· 源数据：<code>figures/video/catalog.csv</code> · 讲解写在 <code>figures/video/notes/&lt;slug&gt;.md</code>。改动时间码或讲解后运行 <code>build_flow_index.py</code> 即可重生成本页。</p>
+<p style="font-size:.85rem;color:#8a938d">素材：<code>figures/video/</code>（定帧 .jpg，动图 <code>clips/*.mp4</code>）· 源数据：<code>figures/video/catalog.csv</code> · 讲解写在 <code>figures/video/notes/&lt;slug&gt;.md</code>（英文 <code>notes/en/</code>、德文 <code>notes/de/</code>）。改动时间码或讲解后运行 <code>build_flow_index.py</code> 即可重生成本页。</p>

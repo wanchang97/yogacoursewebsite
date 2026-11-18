@@ -37,13 +37,13 @@
 | 5 | 26 Nov | Center & Fold · the other side | [Weeks 5–6: Center & Fold](/en/week5-center-fold.md) |
 | 6 | 3 Dec | Balance: Warrior III · Airplane · Eagle | [Weeks 7–8: Balance](/en/week7-space-backbend.md) |
 | 7 | 10 Dec | Twist · seated stretch · savasana | [Weeks 9–10: Twist · Seated · Savasana](/en/week9-twist-vinyasa.md) |
-| 8 | 17 Dec | 🎄 With music · the whole sequence for the first time | [Full Vinyasa Flow · anchor library](/zh/sequences/vinyasa-full-flow.md) |
+| 8 | 17 Dec | 🎄 With music · the whole sequence for the first time | [Full Vinyasa Flow · anchor library](/en/sequences/vinyasa-full-flow.md) |
 | – | 18 Dec – 6 Jan | **Christmas break · no class** | At home: sit quietly for 3 minutes a day and watch the breath |
 | 9 | 7 Jan | Back on the mat: breath + slow full review | [Week 1: Breathing & Space](/en/week1-breathing.md) |
 | 10 | 14 Jan | Backbends: space in the chest | [Prone](/zh/poses/prone.md) · [Supine](/zh/poses/supine.md) |
 | 11 | 21 Jan | First inversions: shoulderstand · plough (with variations) | [Arm Balance & Inversion](/zh/poses/arm-balance-inversion.md) |
 | 12 | 28 Jan | Wish session: based on your feedback | depends on the group |
-| 13 | 4 Feb | 🌟 Semester close · the whole sequence with music | [Full Vinyasa Flow · anchor library](/zh/sequences/vinyasa-full-flow.md) |
+| 13 | 4 Feb | 🌟 Semester close · the whole sequence with music | [Full Vinyasa Flow · anchor library](/en/sequences/vinyasa-full-flow.md) |
 
 ### Focus of each session
 

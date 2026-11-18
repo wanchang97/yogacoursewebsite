@@ -37,13 +37,13 @@
 | 5 | 26.11. | Vorbeuge & Zentrum · andere Seite | [Woche 5–6: Vorbeuge & Zentrum](/de/week5-center-fold.md) |
 | 6 | 03.12. | Balance: Krieger III · Flugzeug · Adler | [Woche 7–8: Balance](/de/week7-space-backbend.md) |
 | 7 | 10.12. | Drehung · sitzende Dehnung · Savasana | [Woche 9–10: Drehung · Sitzen · Savasana](/de/week9-twist-vinyasa.md) |
-| 8 | 17.12. | 🎄 Mit Musik · zum ersten Mal die ganze Sequenz | [Vinyasa-Flow · Anker-Bibliothek](/zh/sequences/vinyasa-full-flow.md) |
+| 8 | 17.12. | 🎄 Mit Musik · zum ersten Mal die ganze Sequenz | [Vinyasa-Flow · Anker-Bibliothek](/de/sequences/vinyasa-full-flow.md) |
 | – | 18.12. – 06.01. | **Weihnachtspause · kein Kurs** | Zuhause: täglich 3 Minuten still sitzen und den Atem beobachten |
 | 9 | 07.01. | Zurück auf die Matte: Atem + langsame Wiederholung | [Woche 1: Atmung & Raum](/de/week1-breathing.md) |
 | 10 | 14.01. | Rückbeugen: Raum im Brustkorb | [Bauchlage](/zh/poses/prone.md) · [Rückenlage](/zh/poses/supine.md) |
 | 11 | 21.01. | Erste Umkehrhaltungen: Schulterstand · Pflug (mit Varianten) | [Armbalance & Umkehrhaltung](/zh/poses/arm-balance-inversion.md) |
 | 12 | 28.01. | Wunsch-Einheit: nach eurem Feedback | je nach Gruppe |
-| 13 | 04.02. | 🌟 Semesterabschluss · die ganze Sequenz mit Musik | [Vinyasa-Flow · Anker-Bibliothek](/zh/sequences/vinyasa-full-flow.md) |
+| 13 | 04.02. | 🌟 Semesterabschluss · die ganze Sequenz mit Musik | [Vinyasa-Flow · Anker-Bibliothek](/de/sequences/vinyasa-full-flow.md) |
 
 ### Schwerpunkte
 
