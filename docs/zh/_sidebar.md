@@ -23,6 +23,10 @@
     - [简易坐伸展放松序列](zh/sequences/seated-warmup.md)
     - [四角板凳支撑稳定序列](zh/sequences/tabletop-warmup.md)
     - [🌊 完整流瑜伽串联 · 动作锚点库](zh/sequences/vinyasa-full-flow.md)
+  - 🕉 唱诵库（Mantra）
+    - [AUM 唱诵](zh/chanting/aum.md)
+    - [阿斯汤加开课唱诵](zh/chanting/ashtanga-opening-mantra.md)
+    - [阿斯汤加结束唱诵](zh/chanting/ashtanga-closing-mantra.md)
 
 - 🌐 语言选择
   - **🇨🇳 中文版 (Chinese)**

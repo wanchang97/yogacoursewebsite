@@ -23,7 +23,10 @@
     - [Seated Warm-up Sequence](/zh/sequences/seated-warmup.md)
     - [Tabletop Support Sequence](/zh/sequences/tabletop-warmup.md)
     - [🌊 Full Vinyasa Flow · Pose Anchor Library](en/sequences/vinyasa-full-flow.md)
-  - *(content currently in Chinese)*
+  - 🕉 Mantra Library (chanting)
+    - [AUM Chanting](en/chanting/aum.md)
+    - [Ashtanga Opening Mantra](en/chanting/ashtanga-opening-mantra.md)
+    - [Ashtanga Closing Mantra](en/chanting/ashtanga-closing-mantra.md)
 
 - 🌐 Languages
   - [🇨🇳 Chinese Version](/zh/README.md)

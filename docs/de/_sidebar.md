@@ -23,7 +23,10 @@
     - [Sitzende Aufwärm-Sequenz](/zh/sequences/seated-warmup.md)
     - [Vierfüßler-Stütz-Sequenz](/zh/sequences/tabletop-warmup.md)
     - [🌊 Vinyasa-Flow · Anker-Bibliothek](de/sequences/vinyasa-full-flow.md)
-  - *(Inhalte zurzeit auf Chinesisch)*
+  - 🕉 Mantra-Bibliothek (Chanten)
+    - [AUM-Chanten](de/chanting/aum.md)
+    - [Ashtanga-Eröffnungsmantra](de/chanting/ashtanga-opening-mantra.md)
+    - [Ashtanga-Abschlussmantra](de/chanting/ashtanga-closing-mantra.md)
 
 - 🌐 Sprachen
   - [🇨🇳 Chinesische Version](/zh/README.md)
