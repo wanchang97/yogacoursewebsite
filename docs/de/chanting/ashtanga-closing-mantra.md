@@ -54,7 +54,7 @@ oṁ śāntiḥ śāntiḥ śāntiḥ</div></div>
 
 - **ḥ** (Visarga) ist ein sanfter Hauch nach dem Vokal, ein leises „h“-Echo: *prajābhyaḥ* ≈ pra-dschaa-bhja(h).
 - **ś** klingt etwa wie „sch“: *śāntiḥ* ≈ schaan-ti(h).
-- **ṇ / ṁ** sind nasal; Vokale mit Strich (ā ī) sind lang.
+- **ṇ** ist ein retroflexes n (mārgeṇa, brāhmaṇebhyaḥ) – am Anfang einfach n; **ṁ** ist ein nasaler Ausklang; Vokale mit Strich (ā ī) sind lang.
 
 <div class="mantra-tip">
 <b>Hinweise für die Anleitung</b><br>

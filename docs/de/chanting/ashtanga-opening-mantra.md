@@ -66,7 +66,8 @@ oṁ</div></div>
 - Ein Strich über dem Vokal (ā ī ū) = langer Vokal, etwas halten.
 - **ś / ṣ** klingen etwa wie „sch“; **c** wie „tsch“ (caraṇa = tscha-ra-na).
 - **ṁ** ist ein nasaler Ausklang, ein weiches „mm“.
-- **ñ** ist ein nasales „nj“ (patañjali ≈ pa-tan-dscha-li).
+- **ṇ** (Punkt darunter) ist ein retroflexes n: die Zungenspitze nach hinten zum Gaumen biegen und n sagen – klingt sehr ähnlich wie n (caraṇa, praṇamāmi). Am Anfang einfach n sprechen. Ein Punkt darunter bedeutet immer einen retroflexen Laut: ṭ ḍ ṇ ṣ.
+- **ñ** vor j / c ist einfach ein natürliches n: pata**ñj**ali ≈ pa-tan-dscha-li.
 
 <div class="mantra-tip">
 <b>Hinweise für die Anleitung</b><br>

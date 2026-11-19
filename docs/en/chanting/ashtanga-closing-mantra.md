@@ -54,7 +54,7 @@ oṁ śāntiḥ śāntiḥ śāntiḥ</div></div>
 
 - **ḥ** (visarga) is a soft breath after the vowel, a faint echo of "h": *prajābhyaḥ* ≈ pra-jaa-bhya(h).
 - **ś** is close to "sh": *śāntiḥ* ≈ shaan-ti(h).
-- **ṇ / ṁ** are nasal; vowels with a line (ā ī) are long.
+- **ṇ** is a retroflex n (mārgeṇa, brāhmaṇebhyaḥ) — simply n for beginners; **ṁ** is a nasal ending; vowels with a line (ā ī) are long.
 
 <div class="mantra-tip">
 <b>Teaching tips</b><br>

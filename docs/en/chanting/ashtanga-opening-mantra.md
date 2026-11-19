@@ -66,7 +66,8 @@ oṁ</div></div>
 - A line over a vowel (ā ī ū) = long vowel, hold it a little.
 - **ś / ṣ** are close to "sh"; **c** is "ch" (caraṇa = cha-ra-na).
 - **ṁ** is a nasal ending, a soft "mm".
-- **ñ** is a nasal "ny" (patañjali ≈ pa-tan-ja-li).
+- **ṇ** (dot below) is a retroflex n: curl the tongue tip back toward the roof of the mouth and say n — it sounds very close to n (caraṇa, praṇamāmi). Beginners can simply say n. A dot below always marks a retroflex sound: ṭ ḍ ṇ ṣ.
+- **ñ** before j / c is simply a natural n: pata**ñj**ali ≈ pa-tan-ja-li.
 
 <div class="mantra-tip">
 <b>Teaching tips</b><br>
