@@ -12,6 +12,9 @@
   - ❄️ Winterkurs (in Vorbereitung)
 
 - 📚 Erfahrungsbibliothek
+  - 🌬 Atemübungen (Pranayama)
+    - [Who-Atmung · Meeresatmung](de/pranayama/who-breath.md)
+    - [Atemzüge zählen](de/pranayama/counting-breath.md)
   - 📖 Asana-Bibliothek (Wortschatz)
     - [Stehend · Standing](/zh/poses/standing.md)
     - [Sitzend · Seated](/zh/poses/seated.md)

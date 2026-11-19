@@ -12,6 +12,9 @@
   - ❄️ Winter Course (coming soon)
 
 - 📚 Practice Library
+  - 🌬 Breathing Practice (Pranayama)
+    - [Who Breath · Ocean Breath](en/pranayama/who-breath.md)
+    - [Counting the Breath](en/pranayama/counting-breath.md)
   - 📖 Asana Library (word bank)
     - [Standing](/zh/poses/standing.md)
     - [Seated](/zh/poses/seated.md)

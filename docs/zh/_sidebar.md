@@ -12,6 +12,9 @@
   - ❄️ 冬季学期课程（筹备中）
 
 - 📚 练习经验积累库
+  - 🌬 调息练习（Pranayama）
+    - [Who 呼吸 · 海浪呼吸](zh/pranayama/who-breath.md)
+    - [数呼吸](zh/pranayama/counting-breath.md)
   - 📖 体式库（单词库）
     - [站立 Standing](zh/poses/standing.md)
     - [坐立 Seated](zh/poses/seated.md)
